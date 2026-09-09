@@ -1,0 +1,4733 @@
+[
+  {
+    "word": "Chair",
+    "vietnamese": "ghế",
+    "example": "I can see a chair.",
+    "aliases": [
+      "seat",
+      "wooden chair",
+      "office chair"
+    ]
+  },
+  {
+    "word": "Table",
+    "vietnamese": "bàn",
+    "example": "I can see a table.",
+    "aliases": [
+      "dining table",
+      "coffee table"
+    ]
+  },
+  {
+    "word": "Desk",
+    "vietnamese": "bàn làm việc",
+    "example": "I can see a desk.",
+    "aliases": [
+      "office desk",
+      "writing desk"
+    ]
+  },
+  {
+    "word": "Sofa",
+    "vietnamese": "ghế sofa",
+    "example": "I can see a sofa.",
+    "aliases": [
+      "couch"
+    ]
+  },
+  {
+    "word": "Bed",
+    "vietnamese": "giường",
+    "example": "I can see a bed.",
+    "aliases": [
+      "bedroom furniture"
+    ]
+  },
+  {
+    "word": "Pillow",
+    "vietnamese": "gối",
+    "example": "I can see a pillow.",
+    "aliases": [
+      "bed pillow",
+      "cushion"
+    ]
+  },
+  {
+    "word": "Blanket",
+    "vietnamese": "chăn",
+    "example": "I can see a blanket.",
+    "aliases": [
+      "bed blanket"
+    ]
+  },
+  {
+    "word": "Sheet",
+    "vietnamese": "ga trải giường",
+    "example": "I can see a sheet.",
+    "aliases": [
+      "bed sheet",
+      "bedsheet"
+    ]
+  },
+  {
+    "word": "Mattress",
+    "vietnamese": "nệm",
+    "example": "I can see a mattress.",
+    "aliases": [
+      "bed mattress"
+    ]
+  },
+  {
+    "word": "Lamp",
+    "vietnamese": "đèn",
+    "example": "I can see a lamp.",
+    "aliases": [
+      "desk lamp",
+      "table lamp"
+    ]
+  },
+  {
+    "word": "Light",
+    "vietnamese": "đèn",
+    "example": "I can see a light.",
+    "aliases": [
+      "light fixture",
+      "room light"
+    ]
+  },
+  {
+    "word": "Door",
+    "vietnamese": "cửa",
+    "example": "I can see a door.",
+    "aliases": [
+      "room door"
+    ]
+  },
+  {
+    "word": "Window",
+    "vietnamese": "cửa sổ",
+    "example": "I can see a window.",
+    "aliases": [
+      "glass window"
+    ]
+  },
+  {
+    "word": "Curtain",
+    "vietnamese": "rèm cửa",
+    "example": "I can see a curtain.",
+    "aliases": [
+      "window curtain",
+      "drape"
+    ]
+  },
+  {
+    "word": "Blind",
+    "vietnamese": "rèm sáo",
+    "example": "I can see a blind.",
+    "aliases": [
+      "window blind"
+    ]
+  },
+  {
+    "word": "Mirror",
+    "vietnamese": "gương",
+    "example": "I can see a mirror.",
+    "aliases": [
+      "wall mirror"
+    ]
+  },
+  {
+    "word": "Clock",
+    "vietnamese": "đồng hồ",
+    "example": "I can see a clock.",
+    "aliases": [
+      "wall clock"
+    ]
+  },
+  {
+    "word": "Fan",
+    "vietnamese": "quạt",
+    "example": "I can see a fan.",
+    "aliases": [
+      "electric fan",
+      "desk fan"
+    ]
+  },
+  {
+    "word": "Air Conditioner",
+    "vietnamese": "máy điều hòa",
+    "example": "I can see an air conditioner.",
+    "aliases": [
+      "air conditioning unit",
+      "AC unit"
+    ]
+  },
+  {
+    "word": "Television",
+    "vietnamese": "tivi",
+    "example": "I can see a television.",
+    "aliases": [
+      "tv",
+      "television set",
+      "flat screen"
+    ]
+  },
+  {
+    "word": "Remote",
+    "vietnamese": "điều khiển từ xa",
+    "example": "I can see a remote.",
+    "aliases": [
+      "remote control",
+      "tv remote"
+    ]
+  },
+  {
+    "word": "Shelf",
+    "vietnamese": "kệ",
+    "example": "I can see a shelf.",
+    "aliases": [
+      "bookshelf",
+      "book shelf"
+    ]
+  },
+  {
+    "word": "Drawer",
+    "vietnamese": "ngăn kéo",
+    "example": "I can see a drawer.",
+    "aliases": [
+      "desk drawer"
+    ]
+  },
+  {
+    "word": "Cabinet",
+    "vietnamese": "tủ",
+    "example": "I can see a cabinet.",
+    "aliases": [
+      "cupboard",
+      "storage cabinet"
+    ]
+  },
+  {
+    "word": "Wardrobe",
+    "vietnamese": "tủ quần áo",
+    "example": "I can see a wardrobe.",
+    "aliases": [
+      "closet",
+      "clothes cabinet"
+    ]
+  },
+  {
+    "word": "Dresser",
+    "vietnamese": "tủ ngăn kéo",
+    "example": "I can see a dresser.",
+    "aliases": [
+      "chest of drawers"
+    ]
+  },
+  {
+    "word": "Basket",
+    "vietnamese": "giỏ",
+    "example": "I can see a basket.",
+    "aliases": [
+      "storage basket",
+      "laundry basket"
+    ]
+  },
+  {
+    "word": "Trash Can",
+    "vietnamese": "thùng rác",
+    "example": "I can see a trash can.",
+    "aliases": [
+      "trash bin",
+      "garbage can",
+      "garbage bin",
+      "waste bin"
+    ]
+  },
+  {
+    "word": "Rug",
+    "vietnamese": "thảm nhỏ",
+    "example": "I can see a rug.",
+    "aliases": [
+      "floor rug"
+    ]
+  },
+  {
+    "word": "Carpet",
+    "vietnamese": "thảm",
+    "example": "I can see a carpet.",
+    "aliases": [
+      "floor carpet"
+    ]
+  },
+  {
+    "word": "Mat",
+    "vietnamese": "tấm thảm",
+    "example": "I can see a mat.",
+    "aliases": [
+      "floor mat",
+      "doormat"
+    ]
+  },
+  {
+    "word": "Picture",
+    "vietnamese": "bức tranh",
+    "example": "I can see a picture.",
+    "aliases": [
+      "picture frame",
+      "wall picture"
+    ]
+  },
+  {
+    "word": "Frame",
+    "vietnamese": "khung ảnh",
+    "example": "I can see a frame.",
+    "aliases": [
+      "photo frame",
+      "picture frame"
+    ]
+  },
+  {
+    "word": "Vase",
+    "vietnamese": "bình hoa",
+    "example": "I can see a vase.",
+    "aliases": [
+      "flower vase"
+    ]
+  },
+  {
+    "word": "Candle",
+    "vietnamese": "nến",
+    "example": "I can see a candle.",
+    "aliases": [
+      "wax candle"
+    ]
+  },
+  {
+    "word": "Candle Holder",
+    "vietnamese": "chân nến",
+    "example": "I can see a candle holder.",
+    "aliases": [
+      "candlestick"
+    ]
+  },
+  {
+    "word": "Plant",
+    "vietnamese": "cây",
+    "example": "I can see a plant.",
+    "aliases": [
+      "houseplant",
+      "potted plant",
+      "indoor plant"
+    ]
+  },
+  {
+    "word": "Flower Pot",
+    "vietnamese": "chậu hoa",
+    "example": "I can see a flower pot.",
+    "aliases": [
+      "plant pot",
+      "flowerpot"
+    ]
+  },
+  {
+    "word": "Box",
+    "vietnamese": "hộp",
+    "example": "I can see a box.",
+    "aliases": [
+      "storage box",
+      "cardboard box"
+    ]
+  },
+  {
+    "word": "Container",
+    "vietnamese": "hộp đựng",
+    "example": "I can see a container.",
+    "aliases": [
+      "storage container"
+    ]
+  },
+  {
+    "word": "Bag",
+    "vietnamese": "túi",
+    "example": "I can see a bag.",
+    "aliases": [
+      "shopping bag",
+      "carry bag"
+    ]
+  },
+  {
+    "word": "Hanger",
+    "vietnamese": "móc áo",
+    "example": "I can see a hanger.",
+    "aliases": [
+      "clothes hanger",
+      "coat hanger"
+    ]
+  },
+  {
+    "word": "Hook",
+    "vietnamese": "móc",
+    "example": "I can see a hook.",
+    "aliases": [
+      "wall hook"
+    ]
+  },
+  {
+    "word": "Handle",
+    "vietnamese": "tay cầm",
+    "example": "I can see a handle.",
+    "aliases": [
+      "door handle",
+      "cabinet handle"
+    ]
+  },
+  {
+    "word": "Knob",
+    "vietnamese": "núm vặn",
+    "example": "I can see a knob.",
+    "aliases": [
+      "door knob",
+      "doorknob"
+    ]
+  },
+  {
+    "word": "Switch",
+    "vietnamese": "công tắc",
+    "example": "I can see a switch.",
+    "aliases": [
+      "light switch"
+    ]
+  },
+  {
+    "word": "Outlet",
+    "vietnamese": "ổ cắm điện",
+    "example": "I can see an outlet.",
+    "aliases": [
+      "power outlet",
+      "wall socket",
+      "electrical outlet"
+    ]
+  },
+  {
+    "word": "Plug",
+    "vietnamese": "phích cắm",
+    "example": "I can see a plug.",
+    "aliases": [
+      "electric plug",
+      "power plug"
+    ]
+  },
+  {
+    "word": "Extension Cord",
+    "vietnamese": "dây nối điện",
+    "example": "I can see an extension cord.",
+    "aliases": [
+      "power strip",
+      "extension lead"
+    ]
+  },
+  {
+    "word": "Ladder",
+    "vietnamese": "thang",
+    "example": "I can see a ladder.",
+    "aliases": [
+      "step ladder"
+    ]
+  },
+  {
+    "word": "Stool",
+    "vietnamese": "ghế đẩu",
+    "example": "I can see a stool.",
+    "aliases": [
+      "small stool"
+    ]
+  },
+  {
+    "word": "Bench",
+    "vietnamese": "ghế băng",
+    "example": "I can see a bench.",
+    "aliases": [
+      "seat bench"
+    ]
+  },
+  {
+    "word": "Rocking Chair",
+    "vietnamese": "ghế bập bênh",
+    "example": "I can see a rocking chair.",
+    "aliases": [
+      "rocker"
+    ]
+  },
+  {
+    "word": "Armchair",
+    "vietnamese": "ghế bành",
+    "example": "I can see an armchair.",
+    "aliases": [
+      "easy chair"
+    ]
+  },
+  {
+    "word": "Coffee Table",
+    "vietnamese": "bàn trà",
+    "example": "I can see a coffee table.",
+    "aliases": [
+      "low table"
+    ]
+  },
+  {
+    "word": "Nightstand",
+    "vietnamese": "tủ đầu giường",
+    "example": "I can see a nightstand.",
+    "aliases": [
+      "bedside table"
+    ]
+  },
+  {
+    "word": "Bookcase",
+    "vietnamese": "tủ sách",
+    "example": "I can see a bookcase.",
+    "aliases": [
+      "bookshelf unit"
+    ]
+  },
+  {
+    "word": "Room Divider",
+    "vietnamese": "vách ngăn phòng",
+    "example": "I can see a room divider.",
+    "aliases": [
+      "partition"
+    ]
+  },
+  {
+    "word": "Ceiling",
+    "vietnamese": "trần nhà",
+    "example": "I can see a ceiling.",
+    "aliases": [
+      "room ceiling"
+    ]
+  },
+  {
+    "word": "Floor",
+    "vietnamese": "sàn nhà",
+    "example": "I can see a floor.",
+    "aliases": [
+      "flooring"
+    ]
+  },
+  {
+    "word": "Cup",
+    "vietnamese": "cốc",
+    "example": "I can see a cup.",
+    "aliases": [
+      "drinking cup"
+    ]
+  },
+  {
+    "word": "Mug",
+    "vietnamese": "cốc có quai",
+    "example": "I can see a mug.",
+    "aliases": [
+      "coffee mug",
+      "tea mug"
+    ]
+  },
+  {
+    "word": "Glass",
+    "vietnamese": "ly",
+    "example": "I can see a glass.",
+    "aliases": [
+      "drinking glass",
+      "water glass"
+    ]
+  },
+  {
+    "word": "Bottle",
+    "vietnamese": "chai",
+    "example": "I can see a bottle.",
+    "aliases": [
+      "water bottle",
+      "plastic bottle",
+      "drink bottle"
+    ]
+  },
+  {
+    "word": "Plate",
+    "vietnamese": "đĩa",
+    "example": "I can see a plate.",
+    "aliases": [
+      "dinner plate"
+    ]
+  },
+  {
+    "word": "Bowl",
+    "vietnamese": "bát",
+    "example": "I can see a bowl.",
+    "aliases": [
+      "soup bowl",
+      "rice bowl"
+    ]
+  },
+  {
+    "word": "Spoon",
+    "vietnamese": "thìa",
+    "example": "I can see a spoon.",
+    "aliases": [
+      "teaspoon",
+      "tablespoon"
+    ]
+  },
+  {
+    "word": "Fork",
+    "vietnamese": "nĩa",
+    "example": "I can see a fork.",
+    "aliases": [
+      "table fork"
+    ]
+  },
+  {
+    "word": "Knife",
+    "vietnamese": "dao",
+    "example": "I can see a knife.",
+    "aliases": [
+      "kitchen knife",
+      "table knife"
+    ]
+  },
+  {
+    "word": "Chopsticks",
+    "vietnamese": "đũa",
+    "example": "I can see a chopsticks.",
+    "aliases": [
+      "chopstick"
+    ]
+  },
+  {
+    "word": "Pan",
+    "vietnamese": "chảo",
+    "example": "I can see a pan.",
+    "aliases": [
+      "frying pan",
+      "skillet"
+    ]
+  },
+  {
+    "word": "Pot",
+    "vietnamese": "nồi",
+    "example": "I can see a pot.",
+    "aliases": [
+      "cooking pot"
+    ]
+  },
+  {
+    "word": "Kettle",
+    "vietnamese": "ấm đun nước",
+    "example": "I can see a kettle.",
+    "aliases": [
+      "electric kettle",
+      "tea kettle"
+    ]
+  },
+  {
+    "word": "Refrigerator",
+    "vietnamese": "tủ lạnh",
+    "example": "I can see a refrigerator.",
+    "aliases": [
+      "fridge"
+    ]
+  },
+  {
+    "word": "Freezer",
+    "vietnamese": "ngăn đông",
+    "example": "I can see a freezer.",
+    "aliases": [
+      "deep freezer"
+    ]
+  },
+  {
+    "word": "Microwave",
+    "vietnamese": "lò vi sóng",
+    "example": "I can see a microwave.",
+    "aliases": [
+      "microwave oven"
+    ]
+  },
+  {
+    "word": "Oven",
+    "vietnamese": "lò nướng",
+    "example": "I can see an oven.",
+    "aliases": [
+      "kitchen oven"
+    ]
+  },
+  {
+    "word": "Stove",
+    "vietnamese": "bếp",
+    "example": "I can see a stove.",
+    "aliases": [
+      "cooking stove",
+      "cooktop"
+    ]
+  },
+  {
+    "word": "Rice Cooker",
+    "vietnamese": "nồi cơm điện",
+    "example": "I can see a rice cooker.",
+    "aliases": [
+      "electric rice cooker"
+    ]
+  },
+  {
+    "word": "Toaster",
+    "vietnamese": "máy nướng bánh mì",
+    "example": "I can see a toaster.",
+    "aliases": [
+      "bread toaster"
+    ]
+  },
+  {
+    "word": "Blender",
+    "vietnamese": "máy xay sinh tố",
+    "example": "I can see a blender.",
+    "aliases": [
+      "food blender"
+    ]
+  },
+  {
+    "word": "Mixer",
+    "vietnamese": "máy trộn",
+    "example": "I can see a mixer.",
+    "aliases": [
+      "hand mixer",
+      "food mixer"
+    ]
+  },
+  {
+    "word": "Coffee Maker",
+    "vietnamese": "máy pha cà phê",
+    "example": "I can see a coffee maker.",
+    "aliases": [
+      "coffee machine"
+    ]
+  },
+  {
+    "word": "Sink",
+    "vietnamese": "bồn rửa",
+    "example": "I can see a sink.",
+    "aliases": [
+      "kitchen sink",
+      "wash basin"
+    ]
+  },
+  {
+    "word": "Faucet",
+    "vietnamese": "vòi nước",
+    "example": "I can see a faucet.",
+    "aliases": [
+      "tap",
+      "water tap"
+    ]
+  },
+  {
+    "word": "Cutting Board",
+    "vietnamese": "thớt",
+    "example": "I can see a cutting board.",
+    "aliases": [
+      "chopping board"
+    ]
+  },
+  {
+    "word": "Lunch Box",
+    "vietnamese": "hộp cơm",
+    "example": "I can see a lunch box.",
+    "aliases": [
+      "lunchbox",
+      "food container"
+    ]
+  },
+  {
+    "word": "Food Container",
+    "vietnamese": "hộp đựng thức ăn",
+    "example": "I can see a food container.",
+    "aliases": [
+      "meal container"
+    ]
+  },
+  {
+    "word": "Jar",
+    "vietnamese": "lọ",
+    "example": "I can see a jar.",
+    "aliases": [
+      "glass jar"
+    ]
+  },
+  {
+    "word": "Can",
+    "vietnamese": "lon",
+    "example": "I can see a can.",
+    "aliases": [
+      "tin can"
+    ]
+  },
+  {
+    "word": "Lid",
+    "vietnamese": "nắp",
+    "example": "I can see a lid.",
+    "aliases": [
+      "container lid"
+    ]
+  },
+  {
+    "word": "Tray",
+    "vietnamese": "khay",
+    "example": "I can see a tray.",
+    "aliases": [
+      "serving tray"
+    ]
+  },
+  {
+    "word": "Pitcher",
+    "vietnamese": "bình rót",
+    "example": "I can see a pitcher.",
+    "aliases": [
+      "jug",
+      "water pitcher"
+    ]
+  },
+  {
+    "word": "Straw",
+    "vietnamese": "ống hút",
+    "example": "I can see a straw.",
+    "aliases": [
+      "drinking straw"
+    ]
+  },
+  {
+    "word": "Napkin",
+    "vietnamese": "khăn ăn",
+    "example": "I can see a napkin.",
+    "aliases": [
+      "table napkin"
+    ]
+  },
+  {
+    "word": "Tablecloth",
+    "vietnamese": "khăn trải bàn",
+    "example": "I can see a tablecloth.",
+    "aliases": [
+      "table cloth"
+    ]
+  },
+  {
+    "word": "Dish Rack",
+    "vietnamese": "giá úp bát",
+    "example": "I can see a dish rack.",
+    "aliases": [
+      "dish drying rack"
+    ]
+  },
+  {
+    "word": "Sponge",
+    "vietnamese": "miếng bọt biển",
+    "example": "I can see a sponge.",
+    "aliases": [
+      "dish sponge"
+    ]
+  },
+  {
+    "word": "Dish Soap",
+    "vietnamese": "nước rửa chén",
+    "example": "I can see a dish soap.",
+    "aliases": [
+      "dishwashing liquid"
+    ]
+  },
+  {
+    "word": "Tongs",
+    "vietnamese": "kẹp gắp",
+    "example": "I can see tongs.",
+    "aliases": [
+      "kitchen tongs"
+    ]
+  },
+  {
+    "word": "Whisk",
+    "vietnamese": "cây đánh trứng",
+    "example": "I can see a whisk.",
+    "aliases": [
+      "egg whisk"
+    ]
+  },
+  {
+    "word": "Spatula",
+    "vietnamese": "xẻng lật",
+    "example": "I can see a spatula.",
+    "aliases": [
+      "turner"
+    ]
+  },
+  {
+    "word": "Ladle",
+    "vietnamese": "muôi",
+    "example": "I can see a ladle.",
+    "aliases": [
+      "soup ladle"
+    ]
+  },
+  {
+    "word": "Peeler",
+    "vietnamese": "dao gọt vỏ",
+    "example": "I can see a peeler.",
+    "aliases": [
+      "vegetable peeler"
+    ]
+  },
+  {
+    "word": "Grater",
+    "vietnamese": "dụng cụ bào",
+    "example": "I can see a grater.",
+    "aliases": [
+      "cheese grater"
+    ]
+  },
+  {
+    "word": "Colander",
+    "vietnamese": "rổ lọc",
+    "example": "I can see a colander.",
+    "aliases": [
+      "strainer"
+    ]
+  },
+  {
+    "word": "Strainer",
+    "vietnamese": "rây lọc",
+    "example": "I can see a strainer.",
+    "aliases": [
+      "sieve"
+    ]
+  },
+  {
+    "word": "Measuring Cup",
+    "vietnamese": "cốc đong",
+    "example": "I can see a measuring cup.",
+    "aliases": [
+      "measurement cup"
+    ]
+  },
+  {
+    "word": "Measuring Spoon",
+    "vietnamese": "thìa đong",
+    "example": "I can see a measuring spoon.",
+    "aliases": [
+      "measurement spoon"
+    ]
+  },
+  {
+    "word": "Rolling Pin",
+    "vietnamese": "cây cán bột",
+    "example": "I can see a rolling pin.",
+    "aliases": [
+      "dough roller"
+    ]
+  },
+  {
+    "word": "Apron",
+    "vietnamese": "tạp dề",
+    "example": "I can see an apron.",
+    "aliases": [
+      "kitchen apron"
+    ]
+  },
+  {
+    "word": "Oven Mitt",
+    "vietnamese": "găng tay lò nướng",
+    "example": "I can see an oven mitt.",
+    "aliases": [
+      "oven glove"
+    ]
+  },
+  {
+    "word": "Thermos",
+    "vietnamese": "bình giữ nhiệt",
+    "example": "I can see a thermos.",
+    "aliases": [
+      "vacuum flask"
+    ]
+  },
+  {
+    "word": "Water Dispenser",
+    "vietnamese": "máy nước uống",
+    "example": "I can see a water dispenser.",
+    "aliases": [
+      "water cooler"
+    ]
+  },
+  {
+    "word": "Ice Tray",
+    "vietnamese": "khay đá",
+    "example": "I can see an ice tray.",
+    "aliases": [
+      "ice cube tray"
+    ]
+  },
+  {
+    "word": "Bottle Opener",
+    "vietnamese": "dụng cụ mở chai",
+    "example": "I can see a bottle opener.",
+    "aliases": [
+      "opener"
+    ]
+  },
+  {
+    "word": "Can Opener",
+    "vietnamese": "dụng cụ mở lon",
+    "example": "I can see a can opener.",
+    "aliases": [
+      "tin opener"
+    ]
+  },
+  {
+    "word": "Corkscrew",
+    "vietnamese": "đồ mở nút chai",
+    "example": "I can see a corkscrew.",
+    "aliases": [
+      "wine opener"
+    ]
+  },
+  {
+    "word": "Teapot",
+    "vietnamese": "ấm trà",
+    "example": "I can see a teapot.",
+    "aliases": [
+      "tea pot"
+    ]
+  },
+  {
+    "word": "Saucer",
+    "vietnamese": "đĩa lót cốc",
+    "example": "I can see a saucer.",
+    "aliases": [
+      "cup saucer"
+    ]
+  },
+  {
+    "word": "Phone",
+    "vietnamese": "điện thoại",
+    "example": "I can see a phone.",
+    "aliases": [
+      "mobile phone",
+      "smartphone",
+      "cell phone",
+      "cellphone",
+      "telephone"
+    ]
+  },
+  {
+    "word": "Laptop",
+    "vietnamese": "máy tính xách tay",
+    "example": "I can see a laptop.",
+    "aliases": [
+      "notebook computer",
+      "portable computer"
+    ]
+  },
+  {
+    "word": "Computer",
+    "vietnamese": "máy tính",
+    "example": "I can see a computer.",
+    "aliases": [
+      "desktop computer",
+      "desktop pc",
+      "pc"
+    ]
+  },
+  {
+    "word": "Monitor",
+    "vietnamese": "màn hình máy tính",
+    "example": "I can see a monitor.",
+    "aliases": [
+      "computer monitor",
+      "display"
+    ]
+  },
+  {
+    "word": "Keyboard",
+    "vietnamese": "bàn phím",
+    "example": "I can see a keyboard.",
+    "aliases": [
+      "computer keyboard"
+    ]
+  },
+  {
+    "word": "Mouse",
+    "vietnamese": "chuột máy tính",
+    "example": "I can see a mouse.",
+    "aliases": [
+      "computer mouse",
+      "wireless mouse"
+    ]
+  },
+  {
+    "word": "Charger",
+    "vietnamese": "bộ sạc",
+    "example": "I can see a charger.",
+    "aliases": [
+      "phone charger",
+      "power adapter",
+      "charging cable"
+    ]
+  },
+  {
+    "word": "Charging Cable",
+    "vietnamese": "cáp sạc",
+    "example": "I can see a charging cable.",
+    "aliases": [
+      "usb cable",
+      "charger cable"
+    ]
+  },
+  {
+    "word": "Headphones",
+    "vietnamese": "tai nghe",
+    "example": "I can see headphones.",
+    "aliases": [
+      "headphone",
+      "earphones",
+      "earbuds"
+    ]
+  },
+  {
+    "word": "Earbuds",
+    "vietnamese": "tai nghe nhét tai",
+    "example": "I can see an earbuds.",
+    "aliases": [
+      "wireless earbuds",
+      "earphones"
+    ]
+  },
+  {
+    "word": "Speaker",
+    "vietnamese": "loa",
+    "example": "I can see a speaker.",
+    "aliases": [
+      "loudspeaker",
+      "bluetooth speaker"
+    ]
+  },
+  {
+    "word": "Camera",
+    "vietnamese": "máy ảnh",
+    "example": "I can see a camera.",
+    "aliases": [
+      "digital camera",
+      "photo camera"
+    ]
+  },
+  {
+    "word": "Tablet",
+    "vietnamese": "máy tính bảng",
+    "example": "I can see a tablet.",
+    "aliases": [
+      "tablet computer"
+    ]
+  },
+  {
+    "word": "Watch",
+    "vietnamese": "đồng hồ đeo tay",
+    "example": "I can see a watch.",
+    "aliases": [
+      "wristwatch",
+      "smartwatch",
+      "smart watch"
+    ]
+  },
+  {
+    "word": "Smartwatch",
+    "vietnamese": "đồng hồ thông minh",
+    "example": "I can see a smartwatch.",
+    "aliases": [
+      "smart watch"
+    ]
+  },
+  {
+    "word": "Router",
+    "vietnamese": "bộ định tuyến",
+    "example": "I can see a router.",
+    "aliases": [
+      "wifi router",
+      "wireless router"
+    ]
+  },
+  {
+    "word": "Modem",
+    "vietnamese": "bộ điều giải",
+    "example": "I can see a modem.",
+    "aliases": [
+      "internet modem"
+    ]
+  },
+  {
+    "word": "Printer",
+    "vietnamese": "máy in",
+    "example": "I can see a printer.",
+    "aliases": [
+      "computer printer"
+    ]
+  },
+  {
+    "word": "Scanner",
+    "vietnamese": "máy quét",
+    "example": "I can see a scanner.",
+    "aliases": [
+      "document scanner"
+    ]
+  },
+  {
+    "word": "Projector",
+    "vietnamese": "máy chiếu",
+    "example": "I can see a projector.",
+    "aliases": [
+      "video projector"
+    ]
+  },
+  {
+    "word": "Microphone",
+    "vietnamese": "micrô",
+    "example": "I can see a microphone.",
+    "aliases": [
+      "mic",
+      "recording microphone"
+    ]
+  },
+  {
+    "word": "Tripod",
+    "vietnamese": "chân máy",
+    "example": "I can see a tripod.",
+    "aliases": [
+      "camera tripod"
+    ]
+  },
+  {
+    "word": "Memory Card",
+    "vietnamese": "thẻ nhớ",
+    "example": "I can see a memory card.",
+    "aliases": [
+      "sd card"
+    ]
+  },
+  {
+    "word": "USB Drive",
+    "vietnamese": "ổ USB",
+    "example": "I can see an usb drive.",
+    "aliases": [
+      "flash drive",
+      "thumb drive"
+    ]
+  },
+  {
+    "word": "Hard Drive",
+    "vietnamese": "ổ cứng",
+    "example": "I can see a hard drive.",
+    "aliases": [
+      "hard disk",
+      "external drive"
+    ]
+  },
+  {
+    "word": "Power Bank",
+    "vietnamese": "sạc dự phòng",
+    "example": "I can see a power bank.",
+    "aliases": [
+      "portable charger",
+      "battery pack"
+    ]
+  },
+  {
+    "word": "Battery",
+    "vietnamese": "pin",
+    "example": "I can see a battery.",
+    "aliases": [
+      "battery cell"
+    ]
+  },
+  {
+    "word": "Remote Control",
+    "vietnamese": "điều khiển từ xa",
+    "example": "I can see a remote control.",
+    "aliases": [
+      "remote"
+    ]
+  },
+  {
+    "word": "Game Controller",
+    "vietnamese": "tay cầm chơi game",
+    "example": "I can see a game controller.",
+    "aliases": [
+      "gamepad",
+      "controller"
+    ]
+  },
+  {
+    "word": "Game Console",
+    "vietnamese": "máy chơi game",
+    "example": "I can see a game console.",
+    "aliases": [
+      "gaming console"
+    ]
+  },
+  {
+    "word": "VR Headset",
+    "vietnamese": "kính thực tế ảo",
+    "example": "I can see a vr headset.",
+    "aliases": [
+      "virtual reality headset"
+    ]
+  },
+  {
+    "word": "Webcam",
+    "vietnamese": "webcam",
+    "example": "I can see a webcam.",
+    "aliases": [
+      "web camera"
+    ]
+  },
+  {
+    "word": "Drone",
+    "vietnamese": "máy bay không người lái",
+    "example": "I can see a drone.",
+    "aliases": [
+      "quadcopter"
+    ]
+  },
+  {
+    "word": "Calculator",
+    "vietnamese": "máy tính cầm tay",
+    "example": "I can see a calculator.",
+    "aliases": [
+      "pocket calculator"
+    ]
+  },
+  {
+    "word": "Digital Clock",
+    "vietnamese": "đồng hồ điện tử",
+    "example": "I can see a digital clock.",
+    "aliases": [
+      "electronic clock"
+    ]
+  },
+  {
+    "word": "Alarm Clock",
+    "vietnamese": "đồng hồ báo thức",
+    "example": "I can see an alarm clock.",
+    "aliases": [
+      "alarm"
+    ]
+  },
+  {
+    "word": "Electric Fan",
+    "vietnamese": "quạt điện",
+    "example": "I can see an electric fan.",
+    "aliases": [
+      "fan"
+    ]
+  },
+  {
+    "word": "Hair Dryer",
+    "vietnamese": "máy sấy tóc",
+    "example": "I can see a hair dryer.",
+    "aliases": [
+      "hairdryer",
+      "blow dryer"
+    ]
+  },
+  {
+    "word": "Electric Shaver",
+    "vietnamese": "máy cạo râu điện",
+    "example": "I can see an electric shaver.",
+    "aliases": [
+      "electric razor"
+    ]
+  },
+  {
+    "word": "Electric Toothbrush",
+    "vietnamese": "bàn chải điện",
+    "example": "I can see an electric toothbrush.",
+    "aliases": []
+  },
+  {
+    "word": "Flashlight",
+    "vietnamese": "đèn pin",
+    "example": "I can see a flashlight.",
+    "aliases": [
+      "torch"
+    ]
+  },
+  {
+    "word": "Light Bulb",
+    "vietnamese": "bóng đèn",
+    "example": "I can see a light bulb.",
+    "aliases": [
+      "bulb"
+    ]
+  },
+  {
+    "word": "LED Strip",
+    "vietnamese": "dải đèn LED",
+    "example": "I can see a led strip.",
+    "aliases": [
+      "led light strip"
+    ]
+  },
+  {
+    "word": "Cable",
+    "vietnamese": "dây cáp",
+    "example": "I can see a cable.",
+    "aliases": [
+      "wire",
+      "cord"
+    ]
+  },
+  {
+    "word": "Adapter",
+    "vietnamese": "bộ chuyển đổi",
+    "example": "I can see an adapter.",
+    "aliases": [
+      "power adapter"
+    ]
+  },
+  {
+    "word": "SIM Card",
+    "vietnamese": "thẻ SIM",
+    "example": "I can see a sim card.",
+    "aliases": [
+      "sim"
+    ]
+  },
+  {
+    "word": "Stylus",
+    "vietnamese": "bút cảm ứng",
+    "example": "I can see a stylus.",
+    "aliases": [
+      "digital pen"
+    ]
+  },
+  {
+    "word": "Smart TV",
+    "vietnamese": "tivi thông minh",
+    "example": "I can see a smart tv.",
+    "aliases": [
+      "smart television"
+    ]
+  },
+  {
+    "word": "Set-top Box",
+    "vietnamese": "hộp giải mã",
+    "example": "I can see a set-top box.",
+    "aliases": [
+      "tv box"
+    ]
+  },
+  {
+    "word": "Wi-Fi Extender",
+    "vietnamese": "bộ kích sóng Wi-Fi",
+    "example": "I can see a wi-fi extender.",
+    "aliases": [
+      "wifi repeater"
+    ]
+  },
+  {
+    "word": "Book",
+    "vietnamese": "sách",
+    "example": "I can see a book.",
+    "aliases": [
+      "textbook",
+      "reading book"
+    ]
+  },
+  {
+    "word": "Notebook",
+    "vietnamese": "vở",
+    "example": "I can see a notebook.",
+    "aliases": [
+      "notepad",
+      "exercise book"
+    ]
+  },
+  {
+    "word": "Paper",
+    "vietnamese": "giấy",
+    "example": "I can see a paper.",
+    "aliases": [
+      "sheet of paper"
+    ]
+  },
+  {
+    "word": "Pen",
+    "vietnamese": "bút mực",
+    "example": "I can see a pen.",
+    "aliases": [
+      "ballpoint pen"
+    ]
+  },
+  {
+    "word": "Pencil",
+    "vietnamese": "bút chì",
+    "example": "I can see a pencil.",
+    "aliases": [
+      "wooden pencil"
+    ]
+  },
+  {
+    "word": "Eraser",
+    "vietnamese": "cục tẩy",
+    "example": "I can see an eraser.",
+    "aliases": [
+      "rubber eraser"
+    ]
+  },
+  {
+    "word": "Ruler",
+    "vietnamese": "thước",
+    "example": "I can see a ruler.",
+    "aliases": [
+      "school ruler"
+    ]
+  },
+  {
+    "word": "Scissors",
+    "vietnamese": "kéo",
+    "example": "I can see scissors.",
+    "aliases": [
+      "scissor"
+    ]
+  },
+  {
+    "word": "Glue",
+    "vietnamese": "keo dán",
+    "example": "I can see glue.",
+    "aliases": [
+      "glue stick"
+    ]
+  },
+  {
+    "word": "Marker",
+    "vietnamese": "bút lông",
+    "example": "I can see a marker.",
+    "aliases": [
+      "marker pen",
+      "felt tip pen"
+    ]
+  },
+  {
+    "word": "Highlighter",
+    "vietnamese": "bút đánh dấu",
+    "example": "I can see a highlighter.",
+    "aliases": [
+      "highlight pen"
+    ]
+  },
+  {
+    "word": "Crayon",
+    "vietnamese": "bút sáp màu",
+    "example": "I can see a crayon.",
+    "aliases": [
+      "wax crayon"
+    ]
+  },
+  {
+    "word": "Colored Pencil",
+    "vietnamese": "bút chì màu",
+    "example": "I can see a colored pencil.",
+    "aliases": [
+      "colour pencil"
+    ]
+  },
+  {
+    "word": "Folder",
+    "vietnamese": "bìa hồ sơ",
+    "example": "I can see a folder.",
+    "aliases": [
+      "file folder"
+    ]
+  },
+  {
+    "word": "Binder",
+    "vietnamese": "bìa còng",
+    "example": "I can see a binder.",
+    "aliases": [
+      "ring binder"
+    ]
+  },
+  {
+    "word": "Stapler",
+    "vietnamese": "dập ghim",
+    "example": "I can see a stapler.",
+    "aliases": [
+      "paper stapler"
+    ]
+  },
+  {
+    "word": "Staple",
+    "vietnamese": "ghim bấm",
+    "example": "I can see a staple.",
+    "aliases": [
+      "staples"
+    ]
+  },
+  {
+    "word": "Paper Clip",
+    "vietnamese": "kẹp giấy",
+    "example": "I can see a paper clip.",
+    "aliases": [
+      "paperclip"
+    ]
+  },
+  {
+    "word": "Envelope",
+    "vietnamese": "phong bì",
+    "example": "I can see an envelope.",
+    "aliases": [
+      "mail envelope"
+    ]
+  },
+  {
+    "word": "Sticky Note",
+    "vietnamese": "giấy ghi chú",
+    "example": "I can see a sticky note.",
+    "aliases": [
+      "post-it note"
+    ]
+  },
+  {
+    "word": "Whiteboard",
+    "vietnamese": "bảng trắng",
+    "example": "I can see a whiteboard.",
+    "aliases": [
+      "white board"
+    ]
+  },
+  {
+    "word": "Blackboard",
+    "vietnamese": "bảng đen",
+    "example": "I can see a blackboard.",
+    "aliases": [
+      "chalkboard"
+    ]
+  },
+  {
+    "word": "Chalk",
+    "vietnamese": "phấn",
+    "example": "I can see a chalk.",
+    "aliases": [
+      "school chalk"
+    ]
+  },
+  {
+    "word": "Clipboard",
+    "vietnamese": "bảng kẹp giấy",
+    "example": "I can see a clipboard.",
+    "aliases": [
+      "clip board"
+    ]
+  },
+  {
+    "word": "Backpack",
+    "vietnamese": "ba lô",
+    "example": "I can see a backpack.",
+    "aliases": [
+      "school bag",
+      "rucksack",
+      "back pack"
+    ]
+  },
+  {
+    "word": "School Bag",
+    "vietnamese": "cặp sách",
+    "example": "I can see a school bag.",
+    "aliases": [
+      "student bag"
+    ]
+  },
+  {
+    "word": "Pencil Case",
+    "vietnamese": "hộp bút",
+    "example": "I can see a pencil case.",
+    "aliases": [
+      "pen case"
+    ]
+  },
+  {
+    "word": "Desk Organizer",
+    "vietnamese": "khay để bàn",
+    "example": "I can see a desk organizer.",
+    "aliases": [
+      "desk tidy"
+    ]
+  },
+  {
+    "word": "File",
+    "vietnamese": "tệp hồ sơ",
+    "example": "I can see a file.",
+    "aliases": [
+      "document file"
+    ]
+  },
+  {
+    "word": "Document",
+    "vietnamese": "tài liệu",
+    "example": "I can see a document.",
+    "aliases": [
+      "paper document"
+    ]
+  },
+  {
+    "word": "Name Tag",
+    "vietnamese": "thẻ tên",
+    "example": "I can see a name tag.",
+    "aliases": [
+      "name badge"
+    ]
+  },
+  {
+    "word": "ID Card",
+    "vietnamese": "thẻ căn cước",
+    "example": "I can see an id card.",
+    "aliases": [
+      "identity card",
+      "identification card"
+    ]
+  },
+  {
+    "word": "Badge",
+    "vietnamese": "huy hiệu",
+    "example": "I can see a badge.",
+    "aliases": [
+      "name badge"
+    ]
+  },
+  {
+    "word": "Stamp",
+    "vietnamese": "con dấu",
+    "example": "I can see a stamp.",
+    "aliases": [
+      "rubber stamp"
+    ]
+  },
+  {
+    "word": "Ink Pad",
+    "vietnamese": "khay mực dấu",
+    "example": "I can see an ink pad.",
+    "aliases": [
+      "stamp pad"
+    ]
+  },
+  {
+    "word": "Tape",
+    "vietnamese": "băng keo",
+    "example": "I can see a tape.",
+    "aliases": [
+      "adhesive tape",
+      "sticky tape"
+    ]
+  },
+  {
+    "word": "Tape Dispenser",
+    "vietnamese": "dụng cụ cắt băng keo",
+    "example": "I can see a tape dispenser.",
+    "aliases": [
+      "tape holder"
+    ]
+  },
+  {
+    "word": "Hole Punch",
+    "vietnamese": "dụng cụ đục lỗ",
+    "example": "I can see a hole punch.",
+    "aliases": [
+      "paper punch"
+    ]
+  },
+  {
+    "word": "Compass",
+    "vietnamese": "compa",
+    "example": "I can see a compass.",
+    "aliases": [
+      "drawing compass"
+    ]
+  },
+  {
+    "word": "Protractor",
+    "vietnamese": "thước đo góc",
+    "example": "I can see a protractor.",
+    "aliases": [
+      "angle ruler"
+    ]
+  },
+  {
+    "word": "Set Square",
+    "vietnamese": "ê ke",
+    "example": "I can see a set square.",
+    "aliases": [
+      "triangle ruler"
+    ]
+  },
+  {
+    "word": "Dictionary",
+    "vietnamese": "từ điển",
+    "example": "I can see a dictionary.",
+    "aliases": [
+      "word dictionary"
+    ]
+  },
+  {
+    "word": "Calendar",
+    "vietnamese": "lịch",
+    "example": "I can see a calendar.",
+    "aliases": [
+      "desk calendar",
+      "wall calendar"
+    ]
+  },
+  {
+    "word": "Planner",
+    "vietnamese": "sổ kế hoạch",
+    "example": "I can see a planner.",
+    "aliases": [
+      "daily planner"
+    ]
+  },
+  {
+    "word": "Diary",
+    "vietnamese": "nhật ký",
+    "example": "I can see a diary.",
+    "aliases": [
+      "personal diary"
+    ]
+  },
+  {
+    "word": "Receipt",
+    "vietnamese": "hóa đơn",
+    "example": "I can see a receipt.",
+    "aliases": [
+      "sales receipt"
+    ]
+  },
+  {
+    "word": "Label",
+    "vietnamese": "nhãn",
+    "example": "I can see a label.",
+    "aliases": [
+      "sticker label"
+    ]
+  },
+  {
+    "word": "Sticker",
+    "vietnamese": "nhãn dán",
+    "example": "I can see a sticker.",
+    "aliases": [
+      "adhesive sticker"
+    ]
+  },
+  {
+    "word": "Push Pin",
+    "vietnamese": "đinh ghim",
+    "example": "I can see a push pin.",
+    "aliases": [
+      "thumbtack"
+    ]
+  },
+  {
+    "word": "Bulletin Board",
+    "vietnamese": "bảng ghim",
+    "example": "I can see a bulletin board.",
+    "aliases": [
+      "notice board"
+    ]
+  },
+  {
+    "word": "Shirt",
+    "vietnamese": "áo sơ mi",
+    "example": "I can see a shirt.",
+    "aliases": [
+      "button shirt"
+    ]
+  },
+  {
+    "word": "T-Shirt",
+    "vietnamese": "áo thun",
+    "example": "I can see a t-shirt.",
+    "aliases": [
+      "tshirt",
+      "tee shirt",
+      "tee"
+    ]
+  },
+  {
+    "word": "Pants",
+    "vietnamese": "quần dài",
+    "example": "I can see pants.",
+    "aliases": [
+      "trousers"
+    ]
+  },
+  {
+    "word": "Jeans",
+    "vietnamese": "quần jean",
+    "example": "I can see jeans.",
+    "aliases": [
+      "denim pants"
+    ]
+  },
+  {
+    "word": "Shorts",
+    "vietnamese": "quần short",
+    "example": "I can see shorts.",
+    "aliases": [
+      "short pants"
+    ]
+  },
+  {
+    "word": "Dress",
+    "vietnamese": "váy liền",
+    "example": "I can see a dress.",
+    "aliases": [
+      "summer dress"
+    ]
+  },
+  {
+    "word": "Skirt",
+    "vietnamese": "chân váy",
+    "example": "I can see a skirt.",
+    "aliases": [
+      "short skirt",
+      "long skirt"
+    ]
+  },
+  {
+    "word": "Jacket",
+    "vietnamese": "áo khoác",
+    "example": "I can see a jacket.",
+    "aliases": [
+      "light jacket"
+    ]
+  },
+  {
+    "word": "Coat",
+    "vietnamese": "áo khoác dài",
+    "example": "I can see a coat.",
+    "aliases": [
+      "winter coat"
+    ]
+  },
+  {
+    "word": "Sweater",
+    "vietnamese": "áo len",
+    "example": "I can see a sweater.",
+    "aliases": [
+      "jumper"
+    ]
+  },
+  {
+    "word": "Hoodie",
+    "vietnamese": "áo hoodie",
+    "example": "I can see a hoodie.",
+    "aliases": [
+      "hooded sweatshirt"
+    ]
+  },
+  {
+    "word": "Sweatshirt",
+    "vietnamese": "áo nỉ",
+    "example": "I can see a sweatshirt.",
+    "aliases": [
+      "sweat shirt"
+    ]
+  },
+  {
+    "word": "Blouse",
+    "vietnamese": "áo kiểu",
+    "example": "I can see a blouse.",
+    "aliases": [
+      "women's blouse"
+    ]
+  },
+  {
+    "word": "Suit",
+    "vietnamese": "bộ vest",
+    "example": "I can see a suit.",
+    "aliases": [
+      "business suit"
+    ]
+  },
+  {
+    "word": "Tie",
+    "vietnamese": "cà vạt",
+    "example": "I can see a tie.",
+    "aliases": [
+      "necktie"
+    ]
+  },
+  {
+    "word": "Bow Tie",
+    "vietnamese": "nơ cổ",
+    "example": "I can see a bow tie.",
+    "aliases": [
+      "bowtie"
+    ]
+  },
+  {
+    "word": "Shoe",
+    "vietnamese": "giày",
+    "example": "I can see a shoe.",
+    "aliases": [
+      "footwear",
+      "shoes"
+    ]
+  },
+  {
+    "word": "Sneaker",
+    "vietnamese": "giày thể thao",
+    "example": "I can see a sneaker.",
+    "aliases": [
+      "sneakers",
+      "running shoe",
+      "sports shoe",
+      "trainer"
+    ]
+  },
+  {
+    "word": "Sandal",
+    "vietnamese": "dép quai",
+    "example": "I can see a sandal.",
+    "aliases": [
+      "sandals"
+    ]
+  },
+  {
+    "word": "Slipper",
+    "vietnamese": "dép đi trong nhà",
+    "example": "I can see a slipper.",
+    "aliases": [
+      "slippers"
+    ]
+  },
+  {
+    "word": "Boot",
+    "vietnamese": "ủng",
+    "example": "I can see a boot.",
+    "aliases": [
+      "boots"
+    ]
+  },
+  {
+    "word": "High Heel",
+    "vietnamese": "giày cao gót",
+    "example": "I can see a high heel.",
+    "aliases": [
+      "high heels",
+      "heeled shoe"
+    ]
+  },
+  {
+    "word": "Sock",
+    "vietnamese": "tất",
+    "example": "I can see a sock.",
+    "aliases": [
+      "socks"
+    ]
+  },
+  {
+    "word": "Stocking",
+    "vietnamese": "vớ dài",
+    "example": "I can see a stocking.",
+    "aliases": [
+      "stockings"
+    ]
+  },
+  {
+    "word": "Hat",
+    "vietnamese": "mũ",
+    "example": "I can see a hat.",
+    "aliases": [
+      "sun hat"
+    ]
+  },
+  {
+    "word": "Cap",
+    "vietnamese": "mũ lưỡi trai",
+    "example": "I can see a cap.",
+    "aliases": [
+      "baseball cap"
+    ]
+  },
+  {
+    "word": "Beanie",
+    "vietnamese": "mũ len",
+    "example": "I can see a beanie.",
+    "aliases": [
+      "knit cap"
+    ]
+  },
+  {
+    "word": "Scarf",
+    "vietnamese": "khăn quàng",
+    "example": "I can see a scarf.",
+    "aliases": [
+      "neck scarf"
+    ]
+  },
+  {
+    "word": "Glove",
+    "vietnamese": "găng tay",
+    "example": "I can see a glove.",
+    "aliases": [
+      "gloves"
+    ]
+  },
+  {
+    "word": "Belt",
+    "vietnamese": "thắt lưng",
+    "example": "I can see a belt.",
+    "aliases": [
+      "waist belt"
+    ]
+  },
+  {
+    "word": "Wallet",
+    "vietnamese": "ví",
+    "example": "I can see a wallet.",
+    "aliases": [
+      "billfold"
+    ]
+  },
+  {
+    "word": "Purse",
+    "vietnamese": "ví cầm tay",
+    "example": "I can see a purse.",
+    "aliases": [
+      "small handbag"
+    ]
+  },
+  {
+    "word": "Handbag",
+    "vietnamese": "túi xách",
+    "example": "I can see a handbag.",
+    "aliases": [
+      "purse",
+      "shoulder bag"
+    ]
+  },
+  {
+    "word": "Suitcase",
+    "vietnamese": "va li",
+    "example": "I can see a suitcase.",
+    "aliases": [
+      "travel suitcase",
+      "luggage"
+    ]
+  },
+  {
+    "word": "Umbrella",
+    "vietnamese": "ô",
+    "example": "I can see an umbrella.",
+    "aliases": [
+      "rain umbrella"
+    ]
+  },
+  {
+    "word": "Glasses",
+    "vietnamese": "kính mắt",
+    "example": "I can see glasses.",
+    "aliases": [
+      "eyeglasses",
+      "spectacles"
+    ]
+  },
+  {
+    "word": "Sunglasses",
+    "vietnamese": "kính râm",
+    "example": "I can see sunglasses.",
+    "aliases": [
+      "sun glasses"
+    ]
+  },
+  {
+    "word": "Bracelet",
+    "vietnamese": "vòng tay",
+    "example": "I can see a bracelet.",
+    "aliases": [
+      "wrist bracelet"
+    ]
+  },
+  {
+    "word": "Necklace",
+    "vietnamese": "vòng cổ",
+    "example": "I can see a necklace.",
+    "aliases": [
+      "chain necklace"
+    ]
+  },
+  {
+    "word": "Ring",
+    "vietnamese": "nhẫn",
+    "example": "I can see a ring.",
+    "aliases": [
+      "finger ring"
+    ]
+  },
+  {
+    "word": "Earring",
+    "vietnamese": "bông tai",
+    "example": "I can see an earring.",
+    "aliases": [
+      "earrings"
+    ]
+  },
+  {
+    "word": "Hair Tie",
+    "vietnamese": "dây buộc tóc",
+    "example": "I can see a hair tie.",
+    "aliases": [
+      "hair band",
+      "ponytail holder"
+    ]
+  },
+  {
+    "word": "Hair Clip",
+    "vietnamese": "kẹp tóc",
+    "example": "I can see a hair clip.",
+    "aliases": [
+      "barrette"
+    ]
+  },
+  {
+    "word": "Headband",
+    "vietnamese": "băng đô",
+    "example": "I can see a headband.",
+    "aliases": [
+      "hair band"
+    ]
+  },
+  {
+    "word": "Mask",
+    "vietnamese": "khẩu trang",
+    "example": "I can see a mask.",
+    "aliases": [
+      "face mask"
+    ]
+  },
+  {
+    "word": "Raincoat",
+    "vietnamese": "áo mưa",
+    "example": "I can see a raincoat.",
+    "aliases": [
+      "rain coat"
+    ]
+  },
+  {
+    "word": "Swimsuit",
+    "vietnamese": "đồ bơi",
+    "example": "I can see a swimsuit.",
+    "aliases": [
+      "swimming suit",
+      "bathing suit"
+    ]
+  },
+  {
+    "word": "Uniform",
+    "vietnamese": "đồng phục",
+    "example": "I can see an uniform.",
+    "aliases": [
+      "school uniform",
+      "work uniform"
+    ]
+  },
+  {
+    "word": "Toothbrush",
+    "vietnamese": "bàn chải đánh răng",
+    "example": "I can see a toothbrush.",
+    "aliases": [
+      "tooth brush"
+    ]
+  },
+  {
+    "word": "Toothpaste",
+    "vietnamese": "kem đánh răng",
+    "example": "I can see a toothpaste.",
+    "aliases": [
+      "tooth paste"
+    ]
+  },
+  {
+    "word": "Soap",
+    "vietnamese": "xà phòng",
+    "example": "I can see a soap.",
+    "aliases": [
+      "hand soap",
+      "bar soap"
+    ]
+  },
+  {
+    "word": "Shampoo",
+    "vietnamese": "dầu gội",
+    "example": "I can see a shampoo.",
+    "aliases": [
+      "hair shampoo"
+    ]
+  },
+  {
+    "word": "Conditioner",
+    "vietnamese": "dầu xả",
+    "example": "I can see a conditioner.",
+    "aliases": [
+      "hair conditioner"
+    ]
+  },
+  {
+    "word": "Towel",
+    "vietnamese": "khăn",
+    "example": "I can see a towel.",
+    "aliases": [
+      "bath towel",
+      "hand towel"
+    ]
+  },
+  {
+    "word": "Comb",
+    "vietnamese": "lược",
+    "example": "I can see a comb.",
+    "aliases": [
+      "hair comb"
+    ]
+  },
+  {
+    "word": "Hairbrush",
+    "vietnamese": "bàn chải tóc",
+    "example": "I can see a hairbrush.",
+    "aliases": [
+      "hair brush"
+    ]
+  },
+  {
+    "word": "Tissue",
+    "vietnamese": "khăn giấy",
+    "example": "I can see a tissue.",
+    "aliases": [
+      "facial tissue",
+      "paper tissue"
+    ]
+  },
+  {
+    "word": "Toilet Paper",
+    "vietnamese": "giấy vệ sinh",
+    "example": "I can see a toilet paper.",
+    "aliases": [
+      "bath tissue"
+    ]
+  },
+  {
+    "word": "Toilet",
+    "vietnamese": "bồn cầu",
+    "example": "I can see a toilet.",
+    "aliases": [
+      "toilet seat"
+    ]
+  },
+  {
+    "word": "Shower",
+    "vietnamese": "vòi sen",
+    "example": "I can see a shower.",
+    "aliases": [
+      "shower head"
+    ]
+  },
+  {
+    "word": "Bathtub",
+    "vietnamese": "bồn tắm",
+    "example": "I can see a bathtub.",
+    "aliases": [
+      "bath tub"
+    ]
+  },
+  {
+    "word": "Razor",
+    "vietnamese": "dao cạo",
+    "example": "I can see a razor.",
+    "aliases": [
+      "shaving razor"
+    ]
+  },
+  {
+    "word": "Shaving Cream",
+    "vietnamese": "kem cạo râu",
+    "example": "I can see a shaving cream.",
+    "aliases": [
+      "shave cream"
+    ]
+  },
+  {
+    "word": "Deodorant",
+    "vietnamese": "lăn khử mùi",
+    "example": "I can see a deodorant.",
+    "aliases": [
+      "antiperspirant"
+    ]
+  },
+  {
+    "word": "Perfume",
+    "vietnamese": "nước hoa",
+    "example": "I can see a perfume.",
+    "aliases": [
+      "fragrance"
+    ]
+  },
+  {
+    "word": "Lotion",
+    "vietnamese": "kem dưỡng da",
+    "example": "I can see a lotion.",
+    "aliases": [
+      "body lotion"
+    ]
+  },
+  {
+    "word": "Cream",
+    "vietnamese": "kem",
+    "example": "I can see a cream.",
+    "aliases": [
+      "skin cream"
+    ]
+  },
+  {
+    "word": "Sunscreen",
+    "vietnamese": "kem chống nắng",
+    "example": "I can see a sunscreen.",
+    "aliases": [
+      "sun cream",
+      "sunblock"
+    ]
+  },
+  {
+    "word": "Cotton Swab",
+    "vietnamese": "tăm bông",
+    "example": "I can see a cotton swab.",
+    "aliases": [
+      "cotton bud",
+      "q-tip"
+    ]
+  },
+  {
+    "word": "Cotton Pad",
+    "vietnamese": "bông tẩy trang",
+    "example": "I can see a cotton pad.",
+    "aliases": [
+      "cotton round"
+    ]
+  },
+  {
+    "word": "Nail Clipper",
+    "vietnamese": "bấm móng tay",
+    "example": "I can see a nail clipper.",
+    "aliases": [
+      "nail cutter"
+    ]
+  },
+  {
+    "word": "Nail File",
+    "vietnamese": "dũa móng",
+    "example": "I can see a nail file.",
+    "aliases": [
+      "emery board"
+    ]
+  },
+  {
+    "word": "Tweezers",
+    "vietnamese": "nhíp",
+    "example": "I can see tweezers.",
+    "aliases": [
+      "tweezer"
+    ]
+  },
+  {
+    "word": "Makeup Brush",
+    "vietnamese": "cọ trang điểm",
+    "example": "I can see a makeup brush.",
+    "aliases": [
+      "cosmetic brush"
+    ]
+  },
+  {
+    "word": "Lipstick",
+    "vietnamese": "son môi",
+    "example": "I can see a lipstick.",
+    "aliases": [
+      "lip color"
+    ]
+  },
+  {
+    "word": "Lip Balm",
+    "vietnamese": "son dưỡng",
+    "example": "I can see a lip balm.",
+    "aliases": [
+      "chapstick"
+    ]
+  },
+  {
+    "word": "Mascara",
+    "vietnamese": "mascara",
+    "example": "I can see a mascara.",
+    "aliases": [
+      "eye mascara"
+    ]
+  },
+  {
+    "word": "Hair Straightener",
+    "vietnamese": "máy duỗi tóc",
+    "example": "I can see a hair straightener.",
+    "aliases": [
+      "flat iron"
+    ]
+  },
+  {
+    "word": "Curling Iron",
+    "vietnamese": "máy uốn tóc",
+    "example": "I can see a curling iron.",
+    "aliases": [
+      "hair curler"
+    ]
+  },
+  {
+    "word": "Bathrobe",
+    "vietnamese": "áo choàng tắm",
+    "example": "I can see a bathrobe.",
+    "aliases": [
+      "robe"
+    ]
+  },
+  {
+    "word": "Shower Cap",
+    "vietnamese": "mũ tắm",
+    "example": "I can see a shower cap.",
+    "aliases": [
+      "bath cap"
+    ]
+  },
+  {
+    "word": "Soap Dish",
+    "vietnamese": "khay xà phòng",
+    "example": "I can see a soap dish.",
+    "aliases": [
+      "soap holder"
+    ]
+  },
+  {
+    "word": "Toothbrush Holder",
+    "vietnamese": "cốc đựng bàn chải",
+    "example": "I can see a toothbrush holder.",
+    "aliases": [
+      "tooth brush holder"
+    ]
+  },
+  {
+    "word": "Bathroom Scale",
+    "vietnamese": "cân sức khỏe",
+    "example": "I can see a bathroom scale.",
+    "aliases": [
+      "body scale"
+    ]
+  },
+  {
+    "word": "Laundry Basket",
+    "vietnamese": "giỏ đồ giặt",
+    "example": "I can see a laundry basket.",
+    "aliases": [
+      "hamper"
+    ]
+  },
+  {
+    "word": "Plunger",
+    "vietnamese": "cây thông bồn cầu",
+    "example": "I can see a plunger.",
+    "aliases": [
+      "toilet plunger"
+    ]
+  },
+  {
+    "word": "Broom",
+    "vietnamese": "chổi",
+    "example": "I can see a broom.",
+    "aliases": [
+      "floor broom"
+    ]
+  },
+  {
+    "word": "Mop",
+    "vietnamese": "cây lau nhà",
+    "example": "I can see a mop.",
+    "aliases": [
+      "floor mop"
+    ]
+  },
+  {
+    "word": "Bucket",
+    "vietnamese": "xô",
+    "example": "I can see a bucket.",
+    "aliases": [
+      "water bucket",
+      "pail"
+    ]
+  },
+  {
+    "word": "Vacuum Cleaner",
+    "vietnamese": "máy hút bụi",
+    "example": "I can see a vacuum cleaner.",
+    "aliases": [
+      "vacuum"
+    ]
+  },
+  {
+    "word": "Iron",
+    "vietnamese": "bàn là",
+    "example": "I can see an iron.",
+    "aliases": [
+      "clothes iron",
+      "electric iron"
+    ]
+  },
+  {
+    "word": "Ironing Board",
+    "vietnamese": "bàn để là",
+    "example": "I can see an ironing board.",
+    "aliases": [
+      "ironing table"
+    ]
+  },
+  {
+    "word": "Washing Machine",
+    "vietnamese": "máy giặt",
+    "example": "I can see a washing machine.",
+    "aliases": [
+      "washer",
+      "clothes washer"
+    ]
+  },
+  {
+    "word": "Dryer",
+    "vietnamese": "máy sấy quần áo",
+    "example": "I can see a dryer.",
+    "aliases": [
+      "clothes dryer",
+      "tumble dryer"
+    ]
+  },
+  {
+    "word": "Detergent",
+    "vietnamese": "bột giặt",
+    "example": "I can see detergent.",
+    "aliases": [
+      "laundry detergent",
+      "washing powder"
+    ]
+  },
+  {
+    "word": "Fabric Softener",
+    "vietnamese": "nước xả vải",
+    "example": "I can see a fabric softener.",
+    "aliases": [
+      "softener"
+    ]
+  },
+  {
+    "word": "Bleach",
+    "vietnamese": "thuốc tẩy",
+    "example": "I can see bleach.",
+    "aliases": [
+      "laundry bleach"
+    ]
+  },
+  {
+    "word": "Spray Bottle",
+    "vietnamese": "bình xịt",
+    "example": "I can see a spray bottle.",
+    "aliases": [
+      "sprayer bottle"
+    ]
+  },
+  {
+    "word": "Cleaning Cloth",
+    "vietnamese": "khăn lau",
+    "example": "I can see a cleaning cloth.",
+    "aliases": [
+      "cleaning rag",
+      "wipe cloth"
+    ]
+  },
+  {
+    "word": "Dustpan",
+    "vietnamese": "ki hốt rác",
+    "example": "I can see a dustpan.",
+    "aliases": [
+      "dust pan"
+    ]
+  },
+  {
+    "word": "Duster",
+    "vietnamese": "chổi phủi bụi",
+    "example": "I can see a duster.",
+    "aliases": [
+      "feather duster"
+    ]
+  },
+  {
+    "word": "Brush",
+    "vietnamese": "bàn chải",
+    "example": "I can see a brush.",
+    "aliases": [
+      "cleaning brush"
+    ]
+  },
+  {
+    "word": "Scrub Brush",
+    "vietnamese": "bàn chải cọ",
+    "example": "I can see a scrub brush.",
+    "aliases": [
+      "scrubbing brush"
+    ]
+  },
+  {
+    "word": "Trash Bag",
+    "vietnamese": "túi rác",
+    "example": "I can see a trash bag.",
+    "aliases": [
+      "garbage bag"
+    ]
+  },
+  {
+    "word": "Recycling Bin",
+    "vietnamese": "thùng tái chế",
+    "example": "I can see a recycling bin.",
+    "aliases": [
+      "recycle bin"
+    ]
+  },
+  {
+    "word": "Laundry Bag",
+    "vietnamese": "túi đựng đồ giặt",
+    "example": "I can see a laundry bag.",
+    "aliases": [
+      "washing bag"
+    ]
+  },
+  {
+    "word": "Clothespin",
+    "vietnamese": "kẹp quần áo",
+    "example": "I can see a clothespin.",
+    "aliases": [
+      "clothes peg"
+    ]
+  },
+  {
+    "word": "Drying Rack",
+    "vietnamese": "giàn phơi",
+    "example": "I can see a drying rack.",
+    "aliases": [
+      "clothes rack"
+    ]
+  },
+  {
+    "word": "Hose",
+    "vietnamese": "ống nước",
+    "example": "I can see a hose.",
+    "aliases": [
+      "garden hose"
+    ]
+  },
+  {
+    "word": "Squeegee",
+    "vietnamese": "cây gạt nước",
+    "example": "I can see a squeegee.",
+    "aliases": [
+      "window squeegee"
+    ]
+  },
+  {
+    "word": "Air Freshener",
+    "vietnamese": "xịt thơm phòng",
+    "example": "I can see an air freshener.",
+    "aliases": [
+      "room freshener"
+    ]
+  },
+  {
+    "word": "Disinfectant",
+    "vietnamese": "chất khử trùng",
+    "example": "I can see a disinfectant.",
+    "aliases": [
+      "sanitizer spray"
+    ]
+  },
+  {
+    "word": "Hand Sanitizer",
+    "vietnamese": "nước rửa tay khô",
+    "example": "I can see a hand sanitizer.",
+    "aliases": [
+      "sanitizer"
+    ]
+  },
+  {
+    "word": "Rubber Glove",
+    "vietnamese": "găng tay cao su",
+    "example": "I can see a rubber glove.",
+    "aliases": [
+      "cleaning glove"
+    ]
+  },
+  {
+    "word": "Toolbox",
+    "vietnamese": "hộp dụng cụ",
+    "example": "I can see a toolbox.",
+    "aliases": [
+      "tool box"
+    ]
+  },
+  {
+    "word": "Storage Bin",
+    "vietnamese": "thùng đựng đồ",
+    "example": "I can see a storage bin.",
+    "aliases": [
+      "storage box"
+    ]
+  },
+  {
+    "word": "Apple",
+    "vietnamese": "táo",
+    "example": "I can see an apple.",
+    "aliases": [
+      "red apple",
+      "green apple"
+    ]
+  },
+  {
+    "word": "Banana",
+    "vietnamese": "chuối",
+    "example": "I can see a banana.",
+    "aliases": [
+      "bananas"
+    ]
+  },
+  {
+    "word": "Orange",
+    "vietnamese": "cam",
+    "example": "I can see an orange.",
+    "aliases": [
+      "orange fruit"
+    ]
+  },
+  {
+    "word": "Mango",
+    "vietnamese": "xoài",
+    "example": "I can see a mango.",
+    "aliases": [
+      "mango fruit"
+    ]
+  },
+  {
+    "word": "Grape",
+    "vietnamese": "nho",
+    "example": "I can see a grape.",
+    "aliases": [
+      "grapes"
+    ]
+  },
+  {
+    "word": "Watermelon",
+    "vietnamese": "dưa hấu",
+    "example": "I can see a watermelon.",
+    "aliases": [
+      "water melon"
+    ]
+  },
+  {
+    "word": "Pineapple",
+    "vietnamese": "dứa",
+    "example": "I can see a pineapple.",
+    "aliases": [
+      "pine apple"
+    ]
+  },
+  {
+    "word": "Strawberry",
+    "vietnamese": "dâu tây",
+    "example": "I can see a strawberry.",
+    "aliases": [
+      "strawberries"
+    ]
+  },
+  {
+    "word": "Blueberry",
+    "vietnamese": "việt quất",
+    "example": "I can see a blueberry.",
+    "aliases": [
+      "blueberries"
+    ]
+  },
+  {
+    "word": "Pear",
+    "vietnamese": "lê",
+    "example": "I can see a pear.",
+    "aliases": [
+      "pear fruit"
+    ]
+  },
+  {
+    "word": "Peach",
+    "vietnamese": "đào",
+    "example": "I can see a peach.",
+    "aliases": [
+      "peach fruit"
+    ]
+  },
+  {
+    "word": "Cherry",
+    "vietnamese": "anh đào",
+    "example": "I can see a cherry.",
+    "aliases": [
+      "cherries"
+    ]
+  },
+  {
+    "word": "Lemon",
+    "vietnamese": "chanh vàng",
+    "example": "I can see a lemon.",
+    "aliases": [
+      "lemon fruit"
+    ]
+  },
+  {
+    "word": "Lime",
+    "vietnamese": "chanh xanh",
+    "example": "I can see a lime.",
+    "aliases": [
+      "lime fruit"
+    ]
+  },
+  {
+    "word": "Coconut",
+    "vietnamese": "dừa",
+    "example": "I can see a coconut.",
+    "aliases": [
+      "coconut fruit"
+    ]
+  },
+  {
+    "word": "Papaya",
+    "vietnamese": "đu đủ",
+    "example": "I can see a papaya.",
+    "aliases": [
+      "papaya fruit"
+    ]
+  },
+  {
+    "word": "Dragon Fruit",
+    "vietnamese": "thanh long",
+    "example": "I can see a dragon fruit.",
+    "aliases": [
+      "pitaya"
+    ]
+  },
+  {
+    "word": "Avocado",
+    "vietnamese": "bơ",
+    "example": "I can see an avocado.",
+    "aliases": [
+      "avocado fruit"
+    ]
+  },
+  {
+    "word": "Tomato",
+    "vietnamese": "cà chua",
+    "example": "I can see a tomato.",
+    "aliases": [
+      "tomatoes"
+    ]
+  },
+  {
+    "word": "Potato",
+    "vietnamese": "khoai tây",
+    "example": "I can see a potato.",
+    "aliases": [
+      "potatoes"
+    ]
+  },
+  {
+    "word": "Sweet Potato",
+    "vietnamese": "khoai lang",
+    "example": "I can see a sweet potato.",
+    "aliases": [
+      "sweetpotato"
+    ]
+  },
+  {
+    "word": "Carrot",
+    "vietnamese": "cà rốt",
+    "example": "I can see a carrot.",
+    "aliases": [
+      "carrots"
+    ]
+  },
+  {
+    "word": "Onion",
+    "vietnamese": "hành tây",
+    "example": "I can see an onion.",
+    "aliases": [
+      "onions"
+    ]
+  },
+  {
+    "word": "Garlic",
+    "vietnamese": "tỏi",
+    "example": "I can see a garlic.",
+    "aliases": [
+      "garlic bulb"
+    ]
+  },
+  {
+    "word": "Cabbage",
+    "vietnamese": "bắp cải",
+    "example": "I can see a cabbage.",
+    "aliases": [
+      "green cabbage"
+    ]
+  },
+  {
+    "word": "Lettuce",
+    "vietnamese": "xà lách",
+    "example": "I can see a lettuce.",
+    "aliases": [
+      "lettuce leaf"
+    ]
+  },
+  {
+    "word": "Cucumber",
+    "vietnamese": "dưa chuột",
+    "example": "I can see a cucumber.",
+    "aliases": [
+      "cucumbers"
+    ]
+  },
+  {
+    "word": "Broccoli",
+    "vietnamese": "bông cải xanh",
+    "example": "I can see a broccoli.",
+    "aliases": [
+      "broccoli head"
+    ]
+  },
+  {
+    "word": "Cauliflower",
+    "vietnamese": "súp lơ trắng",
+    "example": "I can see a cauliflower.",
+    "aliases": [
+      "cauliflower head"
+    ]
+  },
+  {
+    "word": "Corn",
+    "vietnamese": "ngô",
+    "example": "I can see a corn.",
+    "aliases": [
+      "sweet corn",
+      "maize"
+    ]
+  },
+  {
+    "word": "Mushroom",
+    "vietnamese": "nấm",
+    "example": "I can see a mushroom.",
+    "aliases": [
+      "mushrooms"
+    ]
+  },
+  {
+    "word": "Chili",
+    "vietnamese": "ớt",
+    "example": "I can see a chili.",
+    "aliases": [
+      "chilli pepper",
+      "hot pepper"
+    ]
+  },
+  {
+    "word": "Bell Pepper",
+    "vietnamese": "ớt chuông",
+    "example": "I can see a bell pepper.",
+    "aliases": [
+      "sweet pepper"
+    ]
+  },
+  {
+    "word": "Ginger",
+    "vietnamese": "gừng",
+    "example": "I can see a ginger.",
+    "aliases": [
+      "ginger root"
+    ]
+  },
+  {
+    "word": "Bread",
+    "vietnamese": "bánh mì",
+    "example": "I can see bread.",
+    "aliases": [
+      "loaf of bread",
+      "bread loaf"
+    ]
+  },
+  {
+    "word": "Rice",
+    "vietnamese": "cơm",
+    "example": "I can see rice.",
+    "aliases": [
+      "cooked rice"
+    ]
+  },
+  {
+    "word": "Noodles",
+    "vietnamese": "mì",
+    "example": "I can see noodles.",
+    "aliases": [
+      "noodle"
+    ]
+  },
+  {
+    "word": "Pasta",
+    "vietnamese": "mì Ý",
+    "example": "I can see a pasta.",
+    "aliases": [
+      "spaghetti pasta"
+    ]
+  },
+  {
+    "word": "Egg",
+    "vietnamese": "trứng",
+    "example": "I can see an egg.",
+    "aliases": [
+      "chicken egg",
+      "eggs"
+    ]
+  },
+  {
+    "word": "Chicken",
+    "vietnamese": "thịt gà",
+    "example": "I can see a chicken.",
+    "aliases": [
+      "chicken meat"
+    ]
+  },
+  {
+    "word": "Beef",
+    "vietnamese": "thịt bò",
+    "example": "I can see a beef.",
+    "aliases": [
+      "beef meat"
+    ]
+  },
+  {
+    "word": "Pork",
+    "vietnamese": "thịt lợn",
+    "example": "I can see a pork.",
+    "aliases": [
+      "pork meat"
+    ]
+  },
+  {
+    "word": "Fish",
+    "vietnamese": "cá",
+    "example": "I can see a fish.",
+    "aliases": [
+      "fish meat"
+    ]
+  },
+  {
+    "word": "Shrimp",
+    "vietnamese": "tôm",
+    "example": "I can see a shrimp.",
+    "aliases": [
+      "prawn",
+      "prawns"
+    ]
+  },
+  {
+    "word": "Cheese",
+    "vietnamese": "phô mai",
+    "example": "I can see cheese.",
+    "aliases": [
+      "cheese slice"
+    ]
+  },
+  {
+    "word": "Butter",
+    "vietnamese": "bơ",
+    "example": "I can see butter.",
+    "aliases": [
+      "dairy butter"
+    ]
+  },
+  {
+    "word": "Yogurt",
+    "vietnamese": "sữa chua",
+    "example": "I can see a yogurt.",
+    "aliases": [
+      "yoghurt"
+    ]
+  },
+  {
+    "word": "Milk",
+    "vietnamese": "sữa",
+    "example": "I can see milk.",
+    "aliases": [
+      "milk drink"
+    ]
+  },
+  {
+    "word": "Coffee",
+    "vietnamese": "cà phê",
+    "example": "I can see coffee.",
+    "aliases": [
+      "cup of coffee"
+    ]
+  },
+  {
+    "word": "Tea",
+    "vietnamese": "trà",
+    "example": "I can see tea.",
+    "aliases": [
+      "cup of tea"
+    ]
+  },
+  {
+    "word": "Water",
+    "vietnamese": "nước",
+    "example": "I can see water.",
+    "aliases": [
+      "drinking water"
+    ]
+  },
+  {
+    "word": "Juice",
+    "vietnamese": "nước ép",
+    "example": "I can see juice.",
+    "aliases": [
+      "fruit juice"
+    ]
+  },
+  {
+    "word": "Soda",
+    "vietnamese": "nước ngọt có ga",
+    "example": "I can see soda.",
+    "aliases": [
+      "soft drink"
+    ]
+  },
+  {
+    "word": "Soup",
+    "vietnamese": "súp",
+    "example": "I can see a soup.",
+    "aliases": [
+      "bowl of soup"
+    ]
+  },
+  {
+    "word": "Salad",
+    "vietnamese": "salad",
+    "example": "I can see a salad.",
+    "aliases": [
+      "vegetable salad"
+    ]
+  },
+  {
+    "word": "Sandwich",
+    "vietnamese": "bánh sandwich",
+    "example": "I can see a sandwich.",
+    "aliases": [
+      "sandwich bread"
+    ]
+  },
+  {
+    "word": "Cake",
+    "vietnamese": "bánh ngọt",
+    "example": "I can see a cake.",
+    "aliases": [
+      "birthday cake"
+    ]
+  },
+  {
+    "word": "Cookie",
+    "vietnamese": "bánh quy",
+    "example": "I can see a cookie.",
+    "aliases": [
+      "biscuit"
+    ]
+  },
+  {
+    "word": "Chocolate",
+    "vietnamese": "sô cô la",
+    "example": "I can see a chocolate.",
+    "aliases": [
+      "chocolate bar"
+    ]
+  },
+  {
+    "word": "Ice Cream",
+    "vietnamese": "kem",
+    "example": "I can see an ice cream.",
+    "aliases": [
+      "icecream"
+    ]
+  },
+  {
+    "word": "Candy",
+    "vietnamese": "kẹo",
+    "example": "I can see a candy.",
+    "aliases": [
+      "sweets"
+    ]
+  },
+  {
+    "word": "Salt",
+    "vietnamese": "muối",
+    "example": "I can see salt.",
+    "aliases": [
+      "table salt"
+    ]
+  },
+  {
+    "word": "Sugar",
+    "vietnamese": "đường",
+    "example": "I can see sugar.",
+    "aliases": [
+      "white sugar"
+    ]
+  },
+  {
+    "word": "Pepper",
+    "vietnamese": "hạt tiêu",
+    "example": "I can see pepper.",
+    "aliases": [
+      "black pepper"
+    ]
+  },
+  {
+    "word": "Sauce",
+    "vietnamese": "nước sốt",
+    "example": "I can see a sauce.",
+    "aliases": [
+      "food sauce"
+    ]
+  },
+  {
+    "word": "Ketchup",
+    "vietnamese": "tương cà",
+    "example": "I can see a ketchup.",
+    "aliases": [
+      "tomato ketchup"
+    ]
+  },
+  {
+    "word": "Mayonnaise",
+    "vietnamese": "sốt mayonnaise",
+    "example": "I can see a mayonnaise.",
+    "aliases": [
+      "mayo"
+    ]
+  },
+  {
+    "word": "Jam",
+    "vietnamese": "mứt",
+    "example": "I can see a jam.",
+    "aliases": [
+      "fruit jam"
+    ]
+  },
+  {
+    "word": "Honey",
+    "vietnamese": "mật ong",
+    "example": "I can see honey.",
+    "aliases": [
+      "bee honey"
+    ]
+  },
+  {
+    "word": "Car",
+    "vietnamese": "ô tô",
+    "example": "I can see a car.",
+    "aliases": [
+      "automobile",
+      "motor car"
+    ]
+  },
+  {
+    "word": "Bus",
+    "vietnamese": "xe buýt",
+    "example": "I can see a bus.",
+    "aliases": [
+      "city bus"
+    ]
+  },
+  {
+    "word": "Bicycle",
+    "vietnamese": "xe đạp",
+    "example": "I can see a bicycle.",
+    "aliases": [
+      "bike",
+      "cycle"
+    ]
+  },
+  {
+    "word": "Motorcycle",
+    "vietnamese": "xe máy",
+    "example": "I can see a motorcycle.",
+    "aliases": [
+      "motorbike",
+      "motor bike"
+    ]
+  },
+  {
+    "word": "Scooter",
+    "vietnamese": "xe tay ga",
+    "example": "I can see a scooter.",
+    "aliases": [
+      "motor scooter"
+    ]
+  },
+  {
+    "word": "Truck",
+    "vietnamese": "xe tải",
+    "example": "I can see a truck.",
+    "aliases": [
+      "lorry"
+    ]
+  },
+  {
+    "word": "Van",
+    "vietnamese": "xe tải nhỏ",
+    "example": "I can see a van.",
+    "aliases": [
+      "delivery van"
+    ]
+  },
+  {
+    "word": "Taxi",
+    "vietnamese": "taxi",
+    "example": "I can see a taxi.",
+    "aliases": [
+      "cab"
+    ]
+  },
+  {
+    "word": "Train",
+    "vietnamese": "tàu hỏa",
+    "example": "I can see a train.",
+    "aliases": [
+      "railway train"
+    ]
+  },
+  {
+    "word": "Airplane",
+    "vietnamese": "máy bay",
+    "example": "I can see an airplane.",
+    "aliases": [
+      "aircraft",
+      "plane"
+    ]
+  },
+  {
+    "word": "Boat",
+    "vietnamese": "thuyền",
+    "example": "I can see a boat.",
+    "aliases": [
+      "small boat"
+    ]
+  },
+  {
+    "word": "Ship",
+    "vietnamese": "tàu thủy",
+    "example": "I can see a ship.",
+    "aliases": [
+      "large ship"
+    ]
+  },
+  {
+    "word": "Helmet",
+    "vietnamese": "mũ bảo hiểm",
+    "example": "I can see a helmet.",
+    "aliases": [
+      "motorcycle helmet",
+      "bike helmet"
+    ]
+  },
+  {
+    "word": "Seat Belt",
+    "vietnamese": "dây an toàn",
+    "example": "I can see a seat belt.",
+    "aliases": [
+      "seatbelt"
+    ]
+  },
+  {
+    "word": "Steering Wheel",
+    "vietnamese": "vô lăng",
+    "example": "I can see a steering wheel.",
+    "aliases": [
+      "car steering wheel"
+    ]
+  },
+  {
+    "word": "Tire",
+    "vietnamese": "lốp xe",
+    "example": "I can see a tire.",
+    "aliases": [
+      "tyre",
+      "car tire"
+    ]
+  },
+  {
+    "word": "Wheel",
+    "vietnamese": "bánh xe",
+    "example": "I can see a wheel.",
+    "aliases": [
+      "vehicle wheel"
+    ]
+  },
+  {
+    "word": "License Plate",
+    "vietnamese": "biển số xe",
+    "example": "I can see a license plate.",
+    "aliases": [
+      "number plate"
+    ]
+  },
+  {
+    "word": "Traffic Light",
+    "vietnamese": "đèn giao thông",
+    "example": "I can see a traffic light.",
+    "aliases": [
+      "stoplight"
+    ]
+  },
+  {
+    "word": "Traffic Sign",
+    "vietnamese": "biển báo giao thông",
+    "example": "I can see a traffic sign.",
+    "aliases": [
+      "road sign"
+    ]
+  },
+  {
+    "word": "Road",
+    "vietnamese": "đường",
+    "example": "I can see a road.",
+    "aliases": [
+      "street",
+      "roadway"
+    ]
+  },
+  {
+    "word": "Sidewalk",
+    "vietnamese": "vỉa hè",
+    "example": "I can see a sidewalk.",
+    "aliases": [
+      "pavement",
+      "footpath"
+    ]
+  },
+  {
+    "word": "Bridge",
+    "vietnamese": "cầu",
+    "example": "I can see a bridge.",
+    "aliases": [
+      "road bridge"
+    ]
+  },
+  {
+    "word": "Tunnel",
+    "vietnamese": "đường hầm",
+    "example": "I can see a tunnel.",
+    "aliases": [
+      "road tunnel"
+    ]
+  },
+  {
+    "word": "Parking Meter",
+    "vietnamese": "máy tính tiền đỗ xe",
+    "example": "I can see a parking meter.",
+    "aliases": [
+      "parking machine"
+    ]
+  },
+  {
+    "word": "Bus Stop",
+    "vietnamese": "trạm xe buýt",
+    "example": "I can see a bus stop.",
+    "aliases": [
+      "bus station"
+    ]
+  },
+  {
+    "word": "Bicycle Rack",
+    "vietnamese": "giá để xe đạp",
+    "example": "I can see a bicycle rack.",
+    "aliases": [
+      "bike rack"
+    ]
+  },
+  {
+    "word": "Gas Pump",
+    "vietnamese": "cột bơm xăng",
+    "example": "I can see a gas pump.",
+    "aliases": [
+      "fuel pump"
+    ]
+  },
+  {
+    "word": "Car Key",
+    "vietnamese": "chìa khóa xe",
+    "example": "I can see a car key.",
+    "aliases": [
+      "vehicle key"
+    ]
+  },
+  {
+    "word": "Rearview Mirror",
+    "vietnamese": "gương chiếu hậu",
+    "example": "I can see a rearview mirror.",
+    "aliases": [
+      "rear-view mirror"
+    ]
+  },
+  {
+    "word": "Windshield",
+    "vietnamese": "kính chắn gió",
+    "example": "I can see a windshield.",
+    "aliases": [
+      "windscreen"
+    ]
+  },
+  {
+    "word": "Wiper",
+    "vietnamese": "cần gạt nước",
+    "example": "I can see a wiper.",
+    "aliases": [
+      "windshield wiper"
+    ]
+  },
+  {
+    "word": "Trunk",
+    "vietnamese": "cốp xe",
+    "example": "I can see a trunk.",
+    "aliases": [
+      "car boot"
+    ]
+  },
+  {
+    "word": "Dashboard",
+    "vietnamese": "bảng điều khiển xe",
+    "example": "I can see a dashboard.",
+    "aliases": [
+      "car dashboard"
+    ]
+  },
+  {
+    "word": "Pedal",
+    "vietnamese": "bàn đạp",
+    "example": "I can see a pedal.",
+    "aliases": [
+      "car pedal",
+      "bike pedal"
+    ]
+  },
+  {
+    "word": "Chain",
+    "vietnamese": "xích",
+    "example": "I can see a chain.",
+    "aliases": [
+      "bike chain"
+    ]
+  },
+  {
+    "word": "Bell",
+    "vietnamese": "chuông",
+    "example": "I can see a bell.",
+    "aliases": [
+      "bicycle bell"
+    ]
+  },
+  {
+    "word": "Kickstand",
+    "vietnamese": "chân chống",
+    "example": "I can see a kickstand.",
+    "aliases": [
+      "bike stand"
+    ]
+  },
+  {
+    "word": "Map",
+    "vietnamese": "bản đồ",
+    "example": "I can see a map.",
+    "aliases": [
+      "road map"
+    ]
+  },
+  {
+    "word": "Tree",
+    "vietnamese": "cây",
+    "example": "I can see a tree.",
+    "aliases": [
+      "trees"
+    ]
+  },
+  {
+    "word": "Flower",
+    "vietnamese": "hoa",
+    "example": "I can see a flower.",
+    "aliases": [
+      "flowers",
+      "blossom"
+    ]
+  },
+  {
+    "word": "Leaf",
+    "vietnamese": "lá",
+    "example": "I can see a leaf.",
+    "aliases": [
+      "leaves",
+      "plant leaf"
+    ]
+  },
+  {
+    "word": "Grass",
+    "vietnamese": "cỏ",
+    "example": "I can see grass.",
+    "aliases": [
+      "green grass"
+    ]
+  },
+  {
+    "word": "Branch",
+    "vietnamese": "cành cây",
+    "example": "I can see a branch.",
+    "aliases": [
+      "tree branch"
+    ]
+  },
+  {
+    "word": "Rock",
+    "vietnamese": "đá",
+    "example": "I can see a rock.",
+    "aliases": [
+      "stone"
+    ]
+  },
+  {
+    "word": "Sand",
+    "vietnamese": "cát",
+    "example": "I can see sand.",
+    "aliases": [
+      "beach sand"
+    ]
+  },
+  {
+    "word": "Soil",
+    "vietnamese": "đất",
+    "example": "I can see soil.",
+    "aliases": [
+      "dirt",
+      "garden soil"
+    ]
+  },
+  {
+    "word": "Cloud",
+    "vietnamese": "mây",
+    "example": "I can see a cloud.",
+    "aliases": [
+      "clouds"
+    ]
+  },
+  {
+    "word": "Sun",
+    "vietnamese": "mặt trời",
+    "example": "I can see a sun.",
+    "aliases": [
+      "sunlight"
+    ]
+  },
+  {
+    "word": "Moon",
+    "vietnamese": "mặt trăng",
+    "example": "I can see a moon.",
+    "aliases": [
+      "full moon"
+    ]
+  },
+  {
+    "word": "Star",
+    "vietnamese": "ngôi sao",
+    "example": "I can see a star.",
+    "aliases": [
+      "stars"
+    ]
+  },
+  {
+    "word": "Rain",
+    "vietnamese": "mưa",
+    "example": "I can see rain.",
+    "aliases": [
+      "rainfall"
+    ]
+  },
+  {
+    "word": "Puddle",
+    "vietnamese": "vũng nước",
+    "example": "I can see a puddle.",
+    "aliases": [
+      "water puddle"
+    ]
+  },
+  {
+    "word": "River",
+    "vietnamese": "sông",
+    "example": "I can see a river.",
+    "aliases": [
+      "river water"
+    ]
+  },
+  {
+    "word": "Lake",
+    "vietnamese": "hồ",
+    "example": "I can see a lake.",
+    "aliases": [
+      "lake water"
+    ]
+  },
+  {
+    "word": "Pond",
+    "vietnamese": "ao",
+    "example": "I can see a pond.",
+    "aliases": [
+      "small pond"
+    ]
+  },
+  {
+    "word": "Beach",
+    "vietnamese": "bãi biển",
+    "example": "I can see a beach.",
+    "aliases": [
+      "seaside"
+    ]
+  },
+  {
+    "word": "Mountain",
+    "vietnamese": "núi",
+    "example": "I can see a mountain.",
+    "aliases": [
+      "mountain peak"
+    ]
+  },
+  {
+    "word": "Hill",
+    "vietnamese": "đồi",
+    "example": "I can see a hill.",
+    "aliases": [
+      "small hill"
+    ]
+  },
+  {
+    "word": "Garden",
+    "vietnamese": "vườn",
+    "example": "I can see a garden.",
+    "aliases": [
+      "home garden"
+    ]
+  },
+  {
+    "word": "Fence",
+    "vietnamese": "hàng rào",
+    "example": "I can see a fence.",
+    "aliases": [
+      "garden fence"
+    ]
+  },
+  {
+    "word": "Gate",
+    "vietnamese": "cổng",
+    "example": "I can see a gate.",
+    "aliases": [
+      "garden gate"
+    ]
+  },
+  {
+    "word": "Mailbox",
+    "vietnamese": "hộp thư",
+    "example": "I can see a mailbox.",
+    "aliases": [
+      "letter box"
+    ]
+  },
+  {
+    "word": "Trash Bin",
+    "vietnamese": "thùng rác",
+    "example": "I can see a trash bin.",
+    "aliases": [
+      "outdoor bin"
+    ]
+  },
+  {
+    "word": "Street Lamp",
+    "vietnamese": "đèn đường",
+    "example": "I can see a street lamp.",
+    "aliases": [
+      "streetlight"
+    ]
+  },
+  {
+    "word": "Fire Hydrant",
+    "vietnamese": "trụ cứu hỏa",
+    "example": "I can see a fire hydrant.",
+    "aliases": [
+      "hydrant"
+    ]
+  },
+  {
+    "word": "Sign",
+    "vietnamese": "biển báo",
+    "example": "I can see a sign.",
+    "aliases": [
+      "signboard"
+    ]
+  },
+  {
+    "word": "Cone",
+    "vietnamese": "cọc tiêu",
+    "example": "I can see a cone.",
+    "aliases": [
+      "traffic cone"
+    ]
+  },
+  {
+    "word": "Tent",
+    "vietnamese": "lều",
+    "example": "I can see a tent.",
+    "aliases": [
+      "camping tent"
+    ]
+  },
+  {
+    "word": "Sleeping Bag",
+    "vietnamese": "túi ngủ",
+    "example": "I can see a sleeping bag.",
+    "aliases": [
+      "camping sleeping bag"
+    ]
+  },
+  {
+    "word": "Water Bottle",
+    "vietnamese": "chai nước",
+    "example": "I can see a water bottle.",
+    "aliases": [
+      "drink bottle"
+    ]
+  },
+  {
+    "word": "Picnic Basket",
+    "vietnamese": "giỏ dã ngoại",
+    "example": "I can see a picnic basket.",
+    "aliases": [
+      "picnic hamper"
+    ]
+  },
+  {
+    "word": "Flower Bed",
+    "vietnamese": "bồn hoa",
+    "example": "I can see a flower bed.",
+    "aliases": [
+      "garden bed"
+    ]
+  },
+  {
+    "word": "Swing",
+    "vietnamese": "xích đu",
+    "example": "I can see a swing.",
+    "aliases": [
+      "playground swing"
+    ]
+  },
+  {
+    "word": "Slide",
+    "vietnamese": "cầu trượt",
+    "example": "I can see a slide.",
+    "aliases": [
+      "playground slide"
+    ]
+  },
+  {
+    "word": "Seesaw",
+    "vietnamese": "bập bênh",
+    "example": "I can see a seesaw.",
+    "aliases": [
+      "teeter-totter"
+    ]
+  },
+  {
+    "word": "Hammer",
+    "vietnamese": "búa",
+    "example": "I can see a hammer.",
+    "aliases": [
+      "claw hammer"
+    ]
+  },
+  {
+    "word": "Screwdriver",
+    "vietnamese": "tua vít",
+    "example": "I can see a screwdriver.",
+    "aliases": [
+      "screw driver"
+    ]
+  },
+  {
+    "word": "Wrench",
+    "vietnamese": "cờ lê",
+    "example": "I can see a wrench.",
+    "aliases": [
+      "spanner"
+    ]
+  },
+  {
+    "word": "Pliers",
+    "vietnamese": "kìm",
+    "example": "I can see pliers.",
+    "aliases": [
+      "pliers tool"
+    ]
+  },
+  {
+    "word": "Saw",
+    "vietnamese": "cưa",
+    "example": "I can see a saw.",
+    "aliases": [
+      "hand saw"
+    ]
+  },
+  {
+    "word": "Drill",
+    "vietnamese": "máy khoan",
+    "example": "I can see a drill.",
+    "aliases": [
+      "power drill"
+    ]
+  },
+  {
+    "word": "Screw",
+    "vietnamese": "vít",
+    "example": "I can see a screw.",
+    "aliases": [
+      "metal screw"
+    ]
+  },
+  {
+    "word": "Nail",
+    "vietnamese": "đinh",
+    "example": "I can see a nail.",
+    "aliases": [
+      "metal nail"
+    ]
+  },
+  {
+    "word": "Bolt",
+    "vietnamese": "bu lông",
+    "example": "I can see a bolt.",
+    "aliases": [
+      "metal bolt"
+    ]
+  },
+  {
+    "word": "Nut",
+    "vietnamese": "đai ốc",
+    "example": "I can see a nut.",
+    "aliases": [
+      "metal nut"
+    ]
+  },
+  {
+    "word": "Tape Measure",
+    "vietnamese": "thước dây",
+    "example": "I can see a tape measure.",
+    "aliases": [
+      "measuring tape"
+    ]
+  },
+  {
+    "word": "Level",
+    "vietnamese": "thước thủy",
+    "example": "I can see a level.",
+    "aliases": [
+      "spirit level"
+    ]
+  },
+  {
+    "word": "Paint Brush",
+    "vietnamese": "cọ sơn",
+    "example": "I can see a paint brush.",
+    "aliases": [
+      "paintbrush"
+    ]
+  },
+  {
+    "word": "Paint Roller",
+    "vietnamese": "con lăn sơn",
+    "example": "I can see a paint roller.",
+    "aliases": [
+      "roller brush"
+    ]
+  },
+  {
+    "word": "Paint Can",
+    "vietnamese": "lon sơn",
+    "example": "I can see a paint can.",
+    "aliases": [
+      "paint tin"
+    ]
+  },
+  {
+    "word": "Glue Gun",
+    "vietnamese": "súng bắn keo",
+    "example": "I can see a glue gun.",
+    "aliases": [
+      "hot glue gun"
+    ]
+  },
+  {
+    "word": "Utility Knife",
+    "vietnamese": "dao rọc giấy",
+    "example": "I can see an utility knife.",
+    "aliases": [
+      "box cutter"
+    ]
+  },
+  {
+    "word": "Clamp",
+    "vietnamese": "kẹp",
+    "example": "I can see a clamp.",
+    "aliases": [
+      "tool clamp"
+    ]
+  },
+  {
+    "word": "Chisel",
+    "vietnamese": "đục",
+    "example": "I can see a chisel.",
+    "aliases": [
+      "wood chisel"
+    ]
+  },
+  {
+    "word": "File Tool",
+    "vietnamese": "giũa",
+    "example": "I can see a file tool.",
+    "aliases": [
+      "metal file"
+    ]
+  },
+  {
+    "word": "Sandpaper",
+    "vietnamese": "giấy nhám",
+    "example": "I can see a sandpaper.",
+    "aliases": [
+      "abrasive paper"
+    ]
+  },
+  {
+    "word": "Shovel",
+    "vietnamese": "xẻng",
+    "example": "I can see a shovel.",
+    "aliases": [
+      "spade"
+    ]
+  },
+  {
+    "word": "Rake",
+    "vietnamese": "cào",
+    "example": "I can see a rake.",
+    "aliases": [
+      "garden rake"
+    ]
+  },
+  {
+    "word": "Hoe",
+    "vietnamese": "cuốc",
+    "example": "I can see a hoe.",
+    "aliases": [
+      "garden hoe"
+    ]
+  },
+  {
+    "word": "Wheelbarrow",
+    "vietnamese": "xe cút kít",
+    "example": "I can see a wheelbarrow.",
+    "aliases": [
+      "barrow"
+    ]
+  },
+  {
+    "word": "Ball",
+    "vietnamese": "quả bóng",
+    "example": "I can see a ball.",
+    "aliases": [
+      "sports ball"
+    ]
+  },
+  {
+    "word": "Soccer Ball",
+    "vietnamese": "quả bóng đá",
+    "example": "I can see a soccer ball.",
+    "aliases": [
+      "football"
+    ]
+  },
+  {
+    "word": "Basketball",
+    "vietnamese": "quả bóng rổ",
+    "example": "I can see a basketball.",
+    "aliases": [
+      "basketball ball"
+    ]
+  },
+  {
+    "word": "Tennis Ball",
+    "vietnamese": "quả bóng tennis",
+    "example": "I can see a tennis ball.",
+    "aliases": [
+      "tennisball"
+    ]
+  },
+  {
+    "word": "Tennis Racket",
+    "vietnamese": "vợt tennis",
+    "example": "I can see a tennis racket.",
+    "aliases": [
+      "tennis racquet"
+    ]
+  },
+  {
+    "word": "Badminton Racket",
+    "vietnamese": "vợt cầu lông",
+    "example": "I can see a badminton racket.",
+    "aliases": [
+      "badminton racquet"
+    ]
+  },
+  {
+    "word": "Shuttlecock",
+    "vietnamese": "quả cầu lông",
+    "example": "I can see a shuttlecock.",
+    "aliases": [
+      "birdie"
+    ]
+  },
+  {
+    "word": "Baseball Bat",
+    "vietnamese": "gậy bóng chày",
+    "example": "I can see a baseball bat.",
+    "aliases": [
+      "bat"
+    ]
+  },
+  {
+    "word": "Baseball Glove",
+    "vietnamese": "găng bóng chày",
+    "example": "I can see a baseball glove.",
+    "aliases": [
+      "catcher's glove"
+    ]
+  },
+  {
+    "word": "Golf Club",
+    "vietnamese": "gậy golf",
+    "example": "I can see a golf club.",
+    "aliases": [
+      "golf stick"
+    ]
+  },
+  {
+    "word": "Yoga Mat",
+    "vietnamese": "thảm yoga",
+    "example": "I can see a yoga mat.",
+    "aliases": [
+      "exercise mat"
+    ]
+  },
+  {
+    "word": "Dumbbell",
+    "vietnamese": "tạ tay",
+    "example": "I can see a dumbbell.",
+    "aliases": [
+      "hand weight"
+    ]
+  },
+  {
+    "word": "Barbell",
+    "vietnamese": "tạ đòn",
+    "example": "I can see a barbell.",
+    "aliases": [
+      "weight bar"
+    ]
+  },
+  {
+    "word": "Jump Rope",
+    "vietnamese": "dây nhảy",
+    "example": "I can see a jump rope.",
+    "aliases": [
+      "skipping rope"
+    ]
+  },
+  {
+    "word": "Bicycle Helmet",
+    "vietnamese": "mũ bảo hiểm xe đạp",
+    "example": "I can see a bicycle helmet.",
+    "aliases": [
+      "bike helmet"
+    ]
+  },
+  {
+    "word": "Skateboard",
+    "vietnamese": "ván trượt",
+    "example": "I can see a skateboard.",
+    "aliases": [
+      "skate board"
+    ]
+  },
+  {
+    "word": "Roller Skate",
+    "vietnamese": "giày trượt patin",
+    "example": "I can see a roller skate.",
+    "aliases": [
+      "roller skates"
+    ]
+  },
+  {
+    "word": "Guitar",
+    "vietnamese": "đàn guitar",
+    "example": "I can see a guitar.",
+    "aliases": [
+      "acoustic guitar",
+      "electric guitar"
+    ]
+  },
+  {
+    "word": "Piano",
+    "vietnamese": "đàn piano",
+    "example": "I can see a piano.",
+    "aliases": [
+      "keyboard piano"
+    ]
+  },
+  {
+    "word": "Violin",
+    "vietnamese": "đàn violin",
+    "example": "I can see a violin.",
+    "aliases": [
+      "fiddle"
+    ]
+  },
+  {
+    "word": "Drum",
+    "vietnamese": "trống",
+    "example": "I can see a drum.",
+    "aliases": [
+      "drum set"
+    ]
+  },
+  {
+    "word": "Flute",
+    "vietnamese": "sáo",
+    "example": "I can see a flute.",
+    "aliases": [
+      "concert flute"
+    ]
+  },
+  {
+    "word": "Paint Palette",
+    "vietnamese": "bảng pha màu",
+    "example": "I can see a paint palette.",
+    "aliases": [
+      "artist palette"
+    ]
+  },
+  {
+    "word": "Paintbrush",
+    "vietnamese": "cọ vẽ",
+    "example": "I can see a paintbrush.",
+    "aliases": [
+      "artist brush"
+    ]
+  },
+  {
+    "word": "Canvas",
+    "vietnamese": "toan vẽ",
+    "example": "I can see a canvas.",
+    "aliases": [
+      "painting canvas"
+    ]
+  },
+  {
+    "word": "Puzzle",
+    "vietnamese": "trò xếp hình",
+    "example": "I can see a puzzle.",
+    "aliases": [
+      "jigsaw puzzle"
+    ]
+  },
+  {
+    "word": "Board Game",
+    "vietnamese": "trò chơi bàn",
+    "example": "I can see a board game.",
+    "aliases": [
+      "tabletop game"
+    ]
+  },
+  {
+    "word": "Playing Card",
+    "vietnamese": "lá bài",
+    "example": "I can see a playing card.",
+    "aliases": [
+      "playing cards"
+    ]
+  },
+  {
+    "word": "Dice",
+    "vietnamese": "xúc xắc",
+    "example": "I can see dice.",
+    "aliases": [
+      "die"
+    ]
+  },
+  {
+    "word": "Toy",
+    "vietnamese": "đồ chơi",
+    "example": "I can see a toy.",
+    "aliases": [
+      "children's toy"
+    ]
+  },
+  {
+    "word": "Key",
+    "vietnamese": "chìa khóa",
+    "example": "I can see a key.",
+    "aliases": [
+      "house key",
+      "door key"
+    ]
+  },
+  {
+    "word": "Lock",
+    "vietnamese": "ổ khóa",
+    "example": "I can see a lock.",
+    "aliases": [
+      "padlock",
+      "door lock"
+    ]
+  },
+  {
+    "word": "Coin",
+    "vietnamese": "đồng xu",
+    "example": "I can see a coin.",
+    "aliases": [
+      "money coin"
+    ]
+  },
+  {
+    "word": "Banknote",
+    "vietnamese": "tiền giấy",
+    "example": "I can see a banknote.",
+    "aliases": [
+      "paper money",
+      "bill"
+    ]
+  },
+  {
+    "word": "Credit Card",
+    "vietnamese": "thẻ tín dụng",
+    "example": "I can see a credit card.",
+    "aliases": [
+      "bank card"
+    ]
+  },
+  {
+    "word": "Ticket",
+    "vietnamese": "vé",
+    "example": "I can see a ticket.",
+    "aliases": [
+      "entry ticket",
+      "travel ticket"
+    ]
+  },
+  {
+    "word": "Passport",
+    "vietnamese": "hộ chiếu",
+    "example": "I can see a passport.",
+    "aliases": [
+      "travel passport"
+    ]
+  },
+  {
+    "word": "Keychain",
+    "vietnamese": "móc khóa",
+    "example": "I can see a keychain.",
+    "aliases": [
+      "key ring"
+    ]
+  },
+  {
+    "word": "Lanyard",
+    "vietnamese": "dây đeo thẻ",
+    "example": "I can see a lanyard.",
+    "aliases": [
+      "neck strap"
+    ]
+  },
+  {
+    "word": "Bottle Cap",
+    "vietnamese": "nắp chai",
+    "example": "I can see a bottle cap.",
+    "aliases": [
+      "bottle lid"
+    ]
+  },
+  {
+    "word": "Rubber Band",
+    "vietnamese": "dây thun",
+    "example": "I can see a rubber band.",
+    "aliases": [
+      "elastic band"
+    ]
+  },
+  {
+    "word": "String",
+    "vietnamese": "dây",
+    "example": "I can see a string.",
+    "aliases": [
+      "cord",
+      "twine"
+    ]
+  },
+  {
+    "word": "Rope",
+    "vietnamese": "dây thừng",
+    "example": "I can see a rope.",
+    "aliases": [
+      "cord rope"
+    ]
+  },
+  {
+    "word": "Magnet",
+    "vietnamese": "nam châm",
+    "example": "I can see a magnet.",
+    "aliases": [
+      "fridge magnet"
+    ]
+  },
+  {
+    "word": "Pin",
+    "vietnamese": "ghim",
+    "example": "I can see a pin.",
+    "aliases": [
+      "safety pin"
+    ]
+  },
+  {
+    "word": "Safety Pin",
+    "vietnamese": "kim băng",
+    "example": "I can see a safety pin.",
+    "aliases": []
+  },
+  {
+    "word": "Button",
+    "vietnamese": "cúc áo",
+    "example": "I can see a button.",
+    "aliases": [
+      "clothing button"
+    ]
+  },
+  {
+    "word": "Zipper",
+    "vietnamese": "khóa kéo",
+    "example": "I can see a zipper.",
+    "aliases": [
+      "zip"
+    ]
+  },
+  {
+    "word": "Package",
+    "vietnamese": "gói hàng",
+    "example": "I can see a package.",
+    "aliases": [
+      "parcel"
+    ]
+  },
+  {
+    "word": "Shopping Cart",
+    "vietnamese": "xe đẩy mua hàng",
+    "example": "I can see a shopping cart.",
+    "aliases": [
+      "shopping trolley"
+    ]
+  },
+  {
+    "word": "Shopping Basket",
+    "vietnamese": "giỏ mua hàng",
+    "example": "I can see a shopping basket.",
+    "aliases": [
+      "store basket"
+    ]
+  },
+  {
+    "word": "Price Tag",
+    "vietnamese": "nhãn giá",
+    "example": "I can see a price tag.",
+    "aliases": [
+      "price label"
+    ]
+  },
+  {
+    "word": "Barcode",
+    "vietnamese": "mã vạch",
+    "example": "I can see a barcode.",
+    "aliases": [
+      "bar code"
+    ]
+  },
+  {
+    "word": "QR Code",
+    "vietnamese": "mã QR",
+    "example": "I can see a qr code.",
+    "aliases": [
+      "qr"
+    ]
+  },
+  {
+    "word": "Walking Stick",
+    "vietnamese": "gậy chống",
+    "example": "I can see a walking stick.",
+    "aliases": [
+      "cane"
+    ]
+  },
+  {
+    "word": "Crutch",
+    "vietnamese": "nạng",
+    "example": "I can see a crutch.",
+    "aliases": [
+      "walking crutch"
+    ]
+  },
+  {
+    "word": "Wheelchair",
+    "vietnamese": "xe lăn",
+    "example": "I can see a wheelchair.",
+    "aliases": [
+      "wheel chair"
+    ]
+  },
+  {
+    "word": "First Aid Kit",
+    "vietnamese": "hộp sơ cứu",
+    "example": "I can see a first aid kit.",
+    "aliases": [
+      "medical kit"
+    ]
+  },
+  {
+    "word": "Bandage",
+    "vietnamese": "băng gạc",
+    "example": "I can see a bandage.",
+    "aliases": [
+      "medical bandage"
+    ]
+  },
+  {
+    "word": "Thermometer",
+    "vietnamese": "nhiệt kế",
+    "example": "I can see a thermometer.",
+    "aliases": [
+      "digital thermometer"
+    ]
+  },
+  {
+    "word": "Medicine Box",
+    "vietnamese": "hộp thuốc",
+    "example": "I can see a medicine box.",
+    "aliases": [
+      "pill box"
+    ]
+  },
+  {
+    "word": "Pill",
+    "vietnamese": "viên thuốc",
+    "example": "I can see a pill.",
+    "aliases": [
+      "tablet medicine"
+    ]
+  },
+  {
+    "word": "Face Mask",
+    "vietnamese": "khẩu trang",
+    "example": "I can see a face mask.",
+    "aliases": [
+      "mask"
+    ]
+  },
+  {
+    "word": "Signboard",
+    "vietnamese": "bảng hiệu",
+    "example": "I can see a signboard.",
+    "aliases": [
+      "sign board"
+    ]
+  },
+  {
+    "word": "Whistle",
+    "vietnamese": "còi",
+    "example": "I can see a whistle.",
+    "aliases": [
+      "sports whistle"
+    ]
+  },
+  {
+    "word": "Flag",
+    "vietnamese": "cờ",
+    "example": "I can see a flag.",
+    "aliases": [
+      "national flag"
+    ]
+  },
+  {
+    "word": "Umbrella Stand",
+    "vietnamese": "giá để ô",
+    "example": "I can see an umbrella stand.",
+    "aliases": [
+      "umbrella holder"
+    ]
+  },
+  {
+    "word": "Coat Rack",
+    "vietnamese": "giá treo áo",
+    "example": "I can see a coat rack.",
+    "aliases": [
+      "coat stand"
+    ]
+  },
+  {
+    "word": "Doorbell",
+    "vietnamese": "chuông cửa",
+    "example": "I can see a doorbell.",
+    "aliases": [
+      "door bell"
+    ]
+  }
+]
